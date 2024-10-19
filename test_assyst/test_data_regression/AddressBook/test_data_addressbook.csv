@@ -1,0 +1,2 @@
+address_type,organisation,contact_name,address_1,address_2,address_3,town,county,country,post_code,telephone,note_text,effective_date,email,work_email,home_phone,work_phone,mobile,post_expected_message,patch_expected_message
+permanent,Gnx,John Doe,123 ELM street,Suite 100,Bldg 5,Spring field,Hampden,USA,6480254,4875246952,Primary residence,2023-11-28T19:54:08.726Z,shiv@gmal.com,shiv@gmal.com,4875246952,4875246952,9584512452,Addressbook details added successfully,Address book details updated successfully

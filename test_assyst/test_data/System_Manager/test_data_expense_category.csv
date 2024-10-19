@@ -1,0 +1,8 @@
+category,description,frequency,sort_order,discretionary,auto_add,post_expected_message,patch_expected_message
+Expenses,Social expense,Monthly,1290,Essential,1,Expense category details added successfully,Expense category details updated successfully
+,abcdefghijklmnopqrstuvwxyzabcdefghi,Monthly,1290,Essential,1,Expense category details added successfully,Expense category details updated successfully
+,abcdefghijklmnopqrstuvwxyzabcdefgh,Monthly,1290,Essential,1,Expense category details added successfully,Expense category details updated successfully
+,abcdefghijklmnopqrstuvwxyzabcdefghijkl,Monthly,1290,Essential,1,Description cannot be longer than 35 characters,Description cannot be longer than 35 characters
+,abcd,abcdefghijklmnopqrstuvwxyzabcdefghi,1290,Essential,1,Invalid frequency,Invalid frequency
+,abcd,abcdefghijklmnopqrstuvwxyzabcdefgh,1290,Essential,1,Invalid frequency,Invalid frequency
+,abcd,abcdefghijklmnopqrstuvwxyzabcdefghijkl,1290,Essential,1,Frequency cannot be longer than 35 characters,Frequency cannot be longer than 35 characters

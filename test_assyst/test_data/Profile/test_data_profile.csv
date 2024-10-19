@@ -1,0 +1,16 @@
+full_name,short_name,user_email,patch_expected_message
+api,api,api@gmail.com,User details updated successfully
+123,,api@gmail.com,User details updated successfully
+%%,,api@gmail.com,User details updated successfully
+qw!,,api@gmail.com,User details updated successfully
+qw12,,api@gmail.com,User details updated successfully
+12##,,api@gmail.com,User details updated successfully
+qw12##,,api@gmail.com,User details updated successfully
+,123,api@gmail.com,User details updated successfully
+,%%,api@gmail.com,User details updated successfully
+,qw!,api@gmail.com,User details updated successfully
+,qw12,api@gmail.com,User details updated successfully
+,12##,api@gmail.com,User details updated successfully
+,qw12##,api@gmail.com,User details updated successfully
+API,,api@gmail.com,User details updated successfully
+,API,api@gmail.com,User details updated successfully

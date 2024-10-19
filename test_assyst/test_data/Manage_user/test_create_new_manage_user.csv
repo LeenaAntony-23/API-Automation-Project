@@ -1,0 +1,2 @@
+username,firstName,lastName,email,value,role,userRole,post_expected_message
+new123@myvedtekk.com,gnx,gnx,new123@myvedtekk.com,tekk123,SuperAdmin,Super Admin,User details added successfully

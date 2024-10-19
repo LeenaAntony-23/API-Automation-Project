@@ -1,0 +1,134 @@
+case_type,assured_name1,assured_name2,subtype,provider,assigned_to,scheme_name,purpose,start_date,end_date,term,policy_number,premium,periodic_benefit,benefit_frequency,benefit_text,benefits_indexed,status,report_note,other_reference,waiver,rated,in_trust,in_trust_note,provider_phone,provider_note,provider_contact_name,status_date,service_status,policy_holder,assured_detail,lump_sum_benefit,admin_note,premium_indexed,post_expected_message,patch_expected_message
+Health Assurance,john,john doe,health insurance,ABC,Amar tvm,premium health plan,financial support,2023-11-28T10:16:51.871Z,2024-11-28T10:16:51.871Z,0,nnb55,0,0,Monthly,monthly payout,yes,Active,Annual review,REF767,premium waiver,standard,yes,trust beneficiaries,767,policy enquiries,ABC,2023-11-28T10:16:51.871Z,Active,0,spouse,0,no note,yes,Policy details added successfully,Policy details updated successfully
+string,Shiva,jay,string,string,string,string,string,2023-11-28T10:16:51.871Z,2023-11-28T10:16:51.871Z,0,string,0,0,string,string,string,string,string,string,string,string,string,string,string,string,,2023-11-28T10:16:51.871Z,string,0,string,0,string,string,Context and casetype are not matching,Context and casetype are not matching
+Health Assurance,string,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,stringstringstringstringstringstringstringstringstringstring,Premium Indexed cannot be longer than 35 characters,Premium Indexed cannot be longer than 35 characters
+Health Assurance,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,123,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,&&&,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12qw,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12%%,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23qw$$,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,qw$$,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,asasasasasasasasasasasasasasasasa,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,asvasasasasasasasasasasasasasasasa,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,203-11-28T10:16:51.871Z,,,,,,,,,,,,,,,,,,,,,,,,,,"""start_date"" must be a valid date","""start_date"" must be a valid date"
+Health Assurance,,,,,,,,,223-11-28T10:16:51.871Z,,,,,,,,,,,,,,,,,,,,,,,,,"""end_date"" must be a valid date","""end_date"" must be a valid date"
+Health Assurance,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,asasasasasasasasasasasasasasasasa,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,asvasasasasasasasasasasasasasasasa,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,,,123,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,,,^^&^,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,,,rr&&,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,,,rr34%%,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,,,23$$,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,123,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,^^&^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,rr&&,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,rr34%%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,23$$,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,123,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,^^&^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,rr&&,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,rr34%%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,23$$,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,123,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,^^&^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,rr&&,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,rr34%%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,23$$,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,123,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,^^&^,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,rr&&,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,rr34%%,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,23$$,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,123,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,^^&^,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,rr&&,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,rr34%%,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,23$$,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+,,,,,,,,,,,,,,123,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+,,,,,,,,,,,,,,^^&^,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+,,,,,,,,,,,,,,rr&&,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+,,,,,,,,,,,,,,rr34%%,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+,,,,,,,,,,,,,,23$$,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,qqqqqqqqwwwwwwewewewewewwewwewewwewewewewewweweweeweewewwewwewwewwt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assured_name1 cannot be longer than 35 characters,Assured_name1 cannot be longer than 35 characters
+Health Assurance,qwqqwqwqwqwqwqwqwqwqwqwqwqwqwq,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,qwqqqwqwqwqwqwqwqwqwqwqwqwqwqwq,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,qqqqqqqqwwwwwwewewewewewwewwewewwewewewewewweweweeweewewwewwewwewwt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assured_name2 cannot be longer than 35 characters,Assured_name2 cannot be longer than 35 characters
+Health Assurance,,qwqqwqwqwqwqwqwqwqwqwqwqwqwqwq,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,qwqqqwqwqwqwqwqwqwqwqwqwqwqwqwq,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,qqqqqqqqwwwwwwewewewewewwewwewewwewewewewewweweweeweewewwewwewwewwt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,subtype cannot be longer than 50 characters,subtype cannot be longer than 50 characters
+Health Assurance,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,abdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,qqqqqqqqwwwwwwewewewewewwewwewewwewewewewewweweweeweewewwewwewwewwt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,provider cannot be longer than 35 characters,provider cannot be longer than 35 characters
+Health Assurance,,,,qwqqwqwqwqwqwqwqwqwqwqwqwqwqwq,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,qwqqqwqwqwqwqwqwqwqwqwqwqwqwqwq,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,qqqqqqqqwwwwwwewewewewewwewwewewwewewewewewweweweeweewewwewwewwewwt,,,,,,,,,,,,,,,,,,,,,,,,,,,purpose cannot be longer than 30 characters,purpose cannot be longer than 30 characters
+Health Assurance,,,,,,,abcdefghijklmnopqrstuvwxyzabcd,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,abcdeghijklmnopqrstuvwxyzabcd,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,2024-01-27T18:30:00.000Z,2024-01-26T18:30:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,Start Date is before End Date,Start Date is before End Date
+Health Assurance,,,,,,,,,,12345,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,123456,,,,,,,,,,,,,,,,,,,,,,,,"value ""123456"" is out of range for type smallint","value ""123456"" is out of range for type smallint"
+Health Assurance,,,,,,,,,,-1,,,,,,,,,,,,,,,,,,,,,,,,Term must be a number,Term must be a number
+Health Assurance,,,,,,qqqqqqqqwwwwwwewewewewewwewwewewwewewewewewweweweeweewewwewwewwewwt,,,,,,,,,,,,,,,,,,,,,,,,,,,,scheme_name cannot be longer than 50 characters,scheme_name cannot be longer than 50 characters
+Health Assurance,,,,,,,,,,,qwerererererere,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,123,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,##,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,qw##,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,34$$,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,qw44^^,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,qwweeqwweweweerererrererererrererrererererre,,,,,,,,,,,,,,,,,,,,,,,purpose cannot be longer than 20 characters,purpose cannot be longer than 20 characters
+Health Assurance,,,,,,,,,,,,,,,,,,,qwerererererere,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,,123,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,,##,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,,qw##,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,,34$$,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,,qw44^^,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,,qwweeqwweweweerererrererererrererrererererre,,,,,,,,,,,,,,,Other reference should not be more than 20 characters,Other reference should not be more than 20 characters
+Health Assurance,,,,,,,,,,,,,,,,,enfghjklaasfghhhgghghjfytftcccrrerertertetrettykrqwertyuiodin,,,,,,,,,,,,,,,,,status cannot be longer than 50 characters,status cannot be longer than 50 characters
+Health Assurance,,,,,,,enfghjklaasfghhhgghghjfytftcccrrerertertetrettykrqwertyuiodin,,,,,,,,,,,,,,,,,,,,,,,,,,,purpose cannot be longer than 30 characters,purpose cannot be longer than 30 characters
+Health Assurance,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,asdfghllhwertyuiqwertyuiooiuytrewqasdfghkuytresdfghjkyr,premium_indexed cannot be longer than 35 characters,premium_indexed cannot be longer than 35 characters
+Health Assurance,,,,,,,,,,,,,,,,,,,,asdfghllhwertyuiqwertyuiooiuytrewqasdfghkuytresdfghjkyr,,,,,,,,,,,,,,waiver cannot be longer than 35 characters,waiver cannot be longer than 35 characters
+Health Assurance,,,,,,,,,,,,,1.12E+00,,,,,,,,,,,,,,,,,,,,,"""periodic_benefit"" must be an integer","""periodic_benefit"" must be an integer"
+Health Assurance,,,,,,,,,,,,,,enfghjklaasfghhhgghghjfytftcccrrerertertetrettykrqwertyuiodin,,,,,,,,,,,,,,,,,,,,benefit_frequency cannot be longer than 35 characters,benefit_frequency cannot be longer than 35 characters
+Health Assurance,,,,,,,,,,,,,,,,enfghjklaasfghhhgghghjfytftcccrrerertertetrettykrqwertyuiodin,,,,,,,,,,,,,,,,,,benefit_index cannot be longer than 35 characters ,benefit_index cannot be longer than 35 characters 
+Health Assurance,,,,,,,,,,,,,,,123,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,qwe,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,$$,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,12$$,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,qw^^,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,12qw#$,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,,,,,,123,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,,,,,,qwe,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,,,,,,$$,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,,,,,,12$$,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,,,,,,qw^^,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,,,,,,12qw#$,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,123,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,qwe,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$$,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12$$,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,qw^^,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12qw#$,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,,,,,,,,123,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,,,,,,,,qwe,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,,,,,,,,$$,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,,,,,,,,12$$,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,,,,,,,,qw^^,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,,,,,,,,12qw#$,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,123,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,qwe,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,$$,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,12$$,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,qw^^,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,12qw#$,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,,,,,,,123,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,,,,,,,qwe,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,,,,,,,$$,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,,,,,,,12$$,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,,,,,,,qw^^,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,,,,,,,12qw#$,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,,,,,,,qqqqqqqqqqqqqqqqqqqqq,,,,,,,,,,value too long for type character varying(20),value too long for type character varying(20)
+Health Assurance,,,,,qwertyuioqwertyuiopqwertyuiopqwertyuio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,assigned_to cannot be longer than 35 characters,assigned_to cannot be longer than 35 characters
+Health Assurance,,,,,,,,,,,,,,,,,,,,,,,,qwqwqwqwqwqwqwqwqw,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,,,,,,,,,,,,,,,,,,,,qwqwqwqqwqwqwqwqwqw,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,qwqwqwqwqwqwqwqwqwqwqwqwqwqwqwqwqw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Health Assurance,,,,,qwqqwqwqwqwqwqwqwqwqwqwqwqwqwqwqwqw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully

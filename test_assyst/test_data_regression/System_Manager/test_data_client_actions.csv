@@ -1,0 +1,2 @@
+business_category,case_type,due_interval,description,assigned,post_expected_message,patch_expected_message
+client,client action,2,business,Amar Tvm,Client Action details added successfully,Client Action details updated successfully

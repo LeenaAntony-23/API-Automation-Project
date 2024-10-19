@@ -1,0 +1,60 @@
+home_phone,work_phone,fax,work_fax,mobile,work_email,email,primary_contact,email_marketing,postal_marketing,preferred_contact_time,preferred_commucation_type,patch_expected_message
+989797786,989797786,989797786,989797786,989797786,joe@yahoo.com,joe@yahoo.com,office,emailmarketing,postal,evening,mail,Invalid Primary Contact value
+,,,,,joe@yahoo.com,joe@gmail.com,,,,,,Client details updated successfully
+,,,,,,string,,,,,,Invalid Email
+,,,,,,testgmail.com,,,,,,Invalid Email
+,,,,,,@gmail.com,,,,,,Invalid Email
+,,,,,string,,,,,,,Invalid  Work Email
+,,,,,testgmail.com,,,,,,,Invalid  Work Email
+,,,,,@gmail.com,,,,,,,Invalid  Work Email
+,,,,,vvhvhjbmnjihkjijghjghguhjbygvghvgcyvjhvuiguggnijbuuyubjnjbhugytdytf@gmail.com,,,,,,,Invalid  Work Email
+,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmn@gmail.com,,,,,,,Client details updated successfully
+,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmn@gmail.com,,,,,,,Client details updated successfully
+fesesfre6456,,,,,,,,,,,,Client details updated successfully
+,fesesfre6456,,,,,,,,,,,Client details updated successfully
+,,,stringdfghjjhgfdszxcvbnmnhtrdcvb,,,,,,,,,Work Fax cannot be longer than 20 characters
+,,,abcdefghijklmnopqrst,,,,,,,,,Client details updated successfully
+,,,abcdefghijklmnopqr,,,,,,,,,Client details updated successfully
+,,stringdfghjjhgfdszxcvbnmnhtrdcvb,,,,,,,,,,Home Fax cannot be longer than 20 characters
+,,abcdefghijklmnopqrst,,,,,,,,,,Client details updated successfully
+,,abcdefghijklmnopqr,,,,,,,,,,Client details updated successfully
+12121212121212121212qq,,,,,,,,,,,,Home Phone cannot be longer than 20 digits
+123r000000000000000,,,,,,,,,,,,Client details updated successfully
+123r0000000000000000,,,,,,,,,,,,Client details updated successfully
+)(*&^%,,,,,,,,,,,,Client details updated successfully
+,12121212121212121212qq,,,,,,,,,,,Work Phone cannot be longer than 20 digits
+,123r000000000000000,,,,,,,,,,,Client details updated successfully
+,123r0000000000000000,,,,,,,,,,,Client details updated successfully
+,,,,12121212121212121212qq,,,,,,,,Mobile cannot be longer than 20 digits
+,,,,123r000000000000000,,,,,,,,Client details updated successfully
+,,,,123r0000000000000000,,,,,,,,Client details updated successfully
+,,,,,joe@g@gmail.com,,,,,,,Invalid  Work Email
+,,,,,,joe@g@gmail.com,,,,,,Invalid Email
+,,,,,joe @gmail.com,,,,,,,Invalid  Work Email
+,,,,,,joe @gmail.com,,,,,,Invalid Email
+,,,,,gmail.com,,,,,,,Invalid  Work Email
+,,,,,,gmail.com,,,,,,Invalid Email
+,,,,,123@gmail.com,,,,,,,Client details updated successfully
+,,,,,,123@gmail.com,,,,,,Client details updated successfully
+,,,,,*&^@gmail.com,,,,,,,Client details updated successfully
+,,,,,joe@@gmail.com,,,,,,,Invalid  Work Email
+,,,,,,*&^@gmail.com,,,,,,Client details updated successfully
+,,,,,,joe@@gmail.com,,,,,,Invalid Email
+,,,,,,11223dddadjyfchjscvzjhcbsjbjvbxvbxkbkjskvjbvjbvjsgvsjvgsjvgsjgsjhgsjvgsjhvjhvjhvbjhvbdvbdvx@gmail.com,,,,,,Invalid Email
+,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmn@gmail.com,,,,,,Client details updated successfully
+,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmn@gmail.com,,,,,,Client details updated successfully
+,,,,,,,,,,152326,,Client details updated successfully
+,,,,,,,,,,*&*,,Client details updated successfully
+,,,,,,,,,,1212*&^,,Client details updated successfully
+,,,,,,,,,,125hjuk,,Client details updated successfully
+,,,,,,,,,,hghj*&(,,Client details updated successfully
+,,,,,,,,,,jkjh789*&^,,Client details updated successfully
+,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnop,,Contact Time cannot be longer than 35 characters
+,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghi,,Client details updated successfully
+,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdef,,Client details updated successfully
+,,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnop,,,Marketing by Letter cannot be longer than 35 characters
+,,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghi,,,Client details updated successfully
+,,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdef,,,Client details updated successfully
+,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnop,,,,Marketing by Email cannot be longer than 35 characters
+,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghi,,,,Client details updated successfully
+,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdef,,,,Client details updated successfully

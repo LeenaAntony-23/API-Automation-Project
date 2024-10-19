@@ -1,0 +1,107 @@
+{
+  "asset_investment_valuation": {
+    "customer_id": "string",
+    "case_id": "string",
+    "effective_date":"2024-01-24T13:00:00.000Z",
+    "valuation_amount":"6",
+    "note_text":"Data Restore 2 tested one"
+  },
+  "asset_share_holdings_valuation": {
+    "customer_id": "string",
+    "case_id": "string",
+    "effective_date":"2024-01-24T13:00:00.000Z",
+    "valuation_amount":"6",
+    "note_text":"Data Restore 2 tested one"
+  },
+  "asset_home_personal_valuation": {
+    "customer_id": "string",
+    "case_id": "string",
+    "effective_date":"2024-01-24T13:00:00.000Z",
+    "valuation_amount":"6",
+    "note_text":"Data Restore 2 tested one"
+  },
+  "asset_banks_building_societies_valuation": {
+    "customer_id": "string",
+    "case_id": "string",
+    "effective_date":"2024-01-24T13:00:00.000Z",
+    "valuation_amount":"6",
+    "note_text":"Data Restore 2 tested one"
+  },
+    "policies_life_assurance_valuation": {
+    "customer_id": "string",
+    "case_id": "string",
+    "effective_date":"2024-01-24T13:00:00.000Z",
+    "valuation_amount":"6",
+    "note_text":"Data Restore 2 tested one"
+  },
+  "policies_pensions_valuation": {
+    "customer_id": "string",
+    "case_id": "string",
+    "effective_date":"2024-01-24T13:00:00.000Z",
+    "valuation_amount":"6",
+    "note_text":"Data Restore 2 tested one"
+  },
+  "policies_investments_valuation": {
+    "customer_id": "string",
+    "case_id": "string",
+    "effective_date":"2024-01-24T13:00:00.000Z",
+    "valuation_amount":"6",
+    "note_text":"Data Restore 2 tested one"
+  },
+  "policies_income_protection_valuation": {
+    "customer_id": "string",
+    "case_id": "string",
+    "effective_date":"2024-01-24T13:00:00.000Z",
+    "valuation_amount":"6",
+    "note_text":"Data Restore 2 tested one"
+  },
+  "policies_health_assurance_valuation": {
+    "customer_id": "string",
+    "case_id": "string",
+    "effective_date":"2024-01-24T13:00:00.000Z",
+    "valuation_amount":"6",
+    "note_text":"Data Restore 2 tested one"
+  },
+  "policies_general_valuation": {
+    "customer_id": "string",
+    "case_id": "string",
+    "effective_date":"2024-01-24T13:00:00.000Z",
+    "valuation_amount":"6",
+    "note_text":"Data Restore 2 tested one"
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+

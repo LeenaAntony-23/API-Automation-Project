@@ -1,0 +1,12 @@
+{
+  "from": "apiauto@gmail.com",
+  "subject": "Contact for progress meeting appointment",
+  "body": "161c469a-cac3-4802-9d9b-e3d767cdb7ea",
+  "to": [
+    "330cc297-b761-47c2-aa62-e34af4ea875f"
+  ],
+  "cc": [
+    "apiauto@gmail.com"
+  ],
+  "notificationId": "string"
+}

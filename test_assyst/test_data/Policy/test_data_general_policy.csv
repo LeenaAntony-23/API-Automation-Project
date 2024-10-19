@@ -1,0 +1,130 @@
+case_type,assured_name1,assured_name2,subtype,provider,assigned_to,scheme_name,purpose,start_date,end_date,term,policy_number,premium,periodic_benefit,benefit_frequency,benefit_text,benefits_indexed,status,report_note,other_reference,waiver,in_trust,in_trust_note,provider_phone,provider_note,provider_contact_name,status_date,service_status,policy_holder,assured_detail,lump_sum_benefit,admin_note,premium_indexed,post_expected_message,patch_expected_message
+General,john,jay,life insurance,ABC,Amar tvm,life protection,family protection,2023-11-28T10:16:51.871Z,2024-11-28T10:16:51.871Z,0,VB555,0,0,Monthly,Monthly payout,yes,Active,Annual review report,REF444,waiver of premium,yes,minor beneficiaries,346566,contact admin,ABC,2023-11-28T10:16:51.871Z,Active,0,assured,0,admin note for internal use,yes,Policy details added successfully,Policy details updated successfully
+string,shiva,jay,type,provider,string,scheme,policy,2023-11-28T10:16:51.871Z,2023-11-28T10:16:51.871Z,0,number,0,0,frequency,text,index,open,note 2,reference,waiver,trust,trust note,phone,note 3,contact name,2023-11-28T10:16:51.871Z,status,0,assured,0,note 4,premium,Context and casetype are not matching,Context and casetype are not matching
+General,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,123,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,&&&,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12qw,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12%%,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23qw$$,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,qw$$,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,203-11-28T10:16:51.871Z,,,,,,,,,,,,,,,,,,,,,,,,,"""start_date"" must be a valid date","""start_date"" must be a valid date"
+General,,,,,,,,,223-11-28T10:16:51.871Z,,,,,,,,,,,,,,,,,,,,,,,,"""end_date"" must be a valid date","""end_date"" must be a valid date"
+General,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,stringstringstringstringstringstringstringstringstringstring,Premium Indexed cannot be longer than 35 characters,Premium Indexed cannot be longer than 35 characters
+General,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,asasasasasasasasasasasasasasasasa,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,asvasasasasasasasasasasasasasasasa,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,,,123,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,,,^^&^,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,,,rr&&,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,,,rr34%%,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,,,23$$,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,123,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,^^&^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,rr&&,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,rr34%%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,23$$,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,123,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,^^&^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,rr&&,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,rr34%%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,23$$,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,123,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,^^&^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,rr&&,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,rr34%%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,23$$,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,123,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,^^&^,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,rr&&,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,rr34%%,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,23$$,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,123,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,^^&^,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,rr&&,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,rr34%%,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,23$$,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,123,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,^^&^,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,rr&&,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,rr34%%,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,23$$,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,qqqqqqqqwwwwwwewewewewewwewwewewwewewewewewweweweeweewewwewwewwewwt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assured Name 1 cannot be longer than 35 characters,Assured Name 1 cannot be longer than 35 characters
+General,qwqqwqwqwqwqwqwqwqwqwqwqwqwqwq,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,qwqqqwqwqwqwqwqwqwqwqwqwqwqwqwq,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,qqqqqqqqwwwwwwewewewewewwewwewewwewewewewewweweweeweewewwewwewwewwt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assured Name 2 cannot be longer than 35 characters,Assured Name 2 cannot be longer than 35 characters
+General,,qwqqwqwqwqwqwqwqwqwqwqwqwqwqwq,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,qwqqqwqwqwqwqwqwqwqwqwqwqwqwqwq,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,qqqqqqqqwwwwwwewewewewewwewwewewwewewewewewweweweeweewewwewwewwewwt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Subtype cannot be longer than 50 characters,Subtype cannot be longer than 50 characters
+General,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,abdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,qqqqqqqqwwwwwwewewewewewwewwewewwewewewewewweweweeweewewwewwewwewwt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provider cannot be longer than 35 characters,Provider cannot be longer than 35 characters
+General,,,,qwqqwqwqwqwqwqwqwqwqwqwqwqwqwq,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,qwqqqwqwqwqwqwqwqwqwqwqwqwqwqwq,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,qqqqqqqqwwwwwwewewewewewwewwewewwewewewewewweweweeweewewwewwewwewwt,,,,,,,,,,,,,,,,,,,,,,,,,,Purpose cannot be longer than 30 characters,Purpose cannot be longer than 30 characters
+General,,,,,,,abcdefghijklmnopqrstuvwxyzabcd,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,abcdeghijklmnopqrstuvwxyzabcd,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,2024-01-27T18:30:00.000Z,2024-01-26T18:30:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,Start Date is before End Date,Start Date is before End Date
+General,,,,,,,,,,12345,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,123456,,,,,,,,,,,,,,,,,,,,,,,"value ""123456"" is out of range for type smallint","value ""123456"" is out of range for type smallint"
+General,,,,,,,,,,-1,,,,,,,,,,,,,,,,,,,,,,,Term must be a number,Term must be a number
+General,,,,,,qqqqqqqqwwwwwwewewewewewwewwewewwewewewewewweweweeweewewwewwewwewwt,,,,,,,,,,,,,,,,,,,,,,,,,,,Scheme Name cannot be longer than 50 characters,Scheme Name cannot be longer than 50 characters
+General,,,,,,,,,,,qwerererererere,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,123,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,##,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,qw##,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,34$$,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,qw44^^,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,qwwwegrehfgefgjgbghfkbjhfkbfbkjnbjkbnkfgnbkbnfkfkjbnkbnfb,,,,,,,,,,,,,,,,,,,,,,Policy Number cannot be longer than 20 characters,Policy Number cannot be longer than 20 characters
+General,,,,,,,,,,,,,,,,,,,qwerererererere,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,,123,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,,##,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,,qw##,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,,34$$,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,,qw44^^,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,,qwweeqwweweweerererrererererrererrererererre,,,,,,,,,,,,,,Other Reference cannot be longer than 35 characters,Other Reference cannot be longer than 35 characters
+General,,,,,,,,,,,,,,,,,enfghjklaasfghhhgghghjfytftcccrrerertertetrettykrqwertyuiodin,,,,,,,,,,,,,,,,Status cannot be longer than 50 characters,Status cannot be longer than 50 characters
+General,,,,,,,enfghjklaasfghhhgghghjfytftcccrrerertertetrettykrqwertyuiodin,,,,,,,,,,,,,,,,,,,,,,,,,,Purpose cannot be longer than 30 characters,Purpose cannot be longer than 30 characters
+General,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,asdfghllhwertyuiqwertyuiooiuytrewqasdfghkuytresdfghjkyr,Premium Indexed cannot be longer than 35 characters,Premium Indexed cannot be longer than 35 characters
+General,,,,,,,,,,,,,,,,,,,,asdfghllhwertyuiqwertyuiooiuytrewqasdfghkuytresdfghjkyr,,,,,,,,,,,,,Waiver cannot be longer than 35 characters,Waiver cannot be longer than 35 characters
+General,,,,,,,,,,,,,1.12E+00,,,,,,,,,,,,,,,,,,,,"""periodic_benefit"" must be an integer","""periodic_benefit"" must be an integer"
+General,,,,,,,,,,,,,,enfghjklaasfghhhgghghjfytftcccrrerertertetrettykrqwertyuiodin,,,,,,,,,,,,,,,,,,,Benefit Frequency cannot be longer than 35 characters,Benefit Frequency cannot be longer than 35 characters
+General,,,,,,,,,,,,,,,,enfghjklaasfghhhgghghjfytftcccrrerertertetrettykrqwertyuiodin,,,,,,,,,,,,,,,,,Benefit Indexed cannot be longer than 35 characters,Benefit Indexed cannot be longer than 35 characters
+General,,,,,,,,,,,,,,,123,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,qwe,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,$$,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,12$$,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,qw^^,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,12qw#$,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,,,,,123,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,,,,,qwe,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,,,,,$$,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,,,,,12$$,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,,,,,qw^^,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,,,,,12qw#$,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,123,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,qwe,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$$,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12$$,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,qw^^,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12qw#$,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,,,,,,,123,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,,,,,,,qwe,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,,,,,,,$$,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,,,,,,,12$$,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,,,,,,,qw^^,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,,,,,,,12qw#$,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,123,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,qwe,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,$$,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,12$$,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,qw^^,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,12qw#$,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,,,,,,123,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,,,,,,qwe,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,,,,,,$$,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,,,,,,12$$,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,,,,,,qw^^,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,,,,,,12qw#$,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+General,,,,,,,,,,,,,,,,,,,,,,,q111q11111111111111111,,,,,,,,,,Provider Phone cannot be longer than 20 digits,Provider Phone cannot be longer than 20 digits
+General,,,,,qwertyuioqwertyuiopqwertyuiopqwertyuio,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assigned to cannot be longer than 35 characters,Assigned to cannot be longer than 35 characters
+General,,,,,,,,,,,,,,,,,,,,,,,1.21E+17,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,,1.21E+16,,,,,,,,,,Policy details added successfully,Policy details updated successfully

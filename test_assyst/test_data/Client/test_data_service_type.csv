@@ -1,0 +1,14 @@
+description,start_date,end_date,modifiedBy,post_expected_message,patch_expected_message
+string,2023-11-22T11:31:16.452Z,2023-11-22T11:31:16.452Z,string,Client details added successfully,Client details updated successfully
+abcdefghijklmnopqrstuvwxyzabcdefghi,2023-11-22T11:31:16.452Z,,,Client details added successfully,Client details updated successfully
+abcdefghijklmnopqrstuvwxyzabcdef,2023-11-22T11:31:16.452Z,,,Client details added successfully,Client details updated successfully
+abcdefghijklmnopqrstuvwxyzabcdefghijklmno,2023-11-22T11:31:16.452Z,,,Service Type cannot be longer than 35 characters,Service Type cannot be longer than 35 characters
+,2023-11-22T11:31:16.452Z,2022-11-22T11:31:16.452Z,,Start Date should be before End Date,Start Date should be before End Date
+,203-11-22T11:31:16.452Z,,,"""start_date"" must be a valid date","""start_date"" must be a valid date"
+,2023-11-22T11:31:16.452Z,203-11-22T11:31:16.452Z,,"""end_date"" must be a valid date","""end_date"" must be a valid date"
+123,2023-11-22T11:31:16.452Z,,,Client details added successfully,Client details updated successfully
+12qw,2023-11-22T11:31:16.452Z,,,Client details added successfully,Client details updated successfully
+12##,2023-11-22T11:31:16.452Z,,,Client details added successfully,Client details updated successfully
+qw#,2023-11-22T11:31:16.452Z,,,Client details added successfully,Client details updated successfully
+qw23##,2023-11-22T11:31:16.452Z,,,Client details added successfully,Client details updated successfully
+(*),2023-11-22T11:31:16.452Z,,,Client details added successfully,Client details updated successfully

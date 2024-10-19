@@ -1,0 +1,5 @@
+sort_order,rating,rating_score,description,post_expected_message,patch_expected_message
+898,rating898,10,fgf, Attitude rating details added successfully,Attitude rating details updated successfully
+3,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwx,10,fgf, Attitude rating details added successfully,Attitude rating details updated successfully
+3,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvw,10,fgf, Attitude rating details added successfully,Attitude rating details updated successfully
+3,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabc,10,fgf,Rating cannot be longer than 50 characters,Rating cannot be longer than 50 characters

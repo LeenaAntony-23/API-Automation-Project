@@ -1,0 +1,11 @@
+{
+  "attitude_to_risk": {
+    "customer_id": "string",
+    "attitude_risks": [
+      {
+        "category_id": "string",
+        "rating_id": "string"
+      }
+    ]
+  }
+}

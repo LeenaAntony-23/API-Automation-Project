@@ -1,0 +1,125 @@
+borrower,borrower_name1,borrower_name2,liability_type,subtype,repayment_method,purpose,provider,start_date,end_date,term,amount_borrowed,amount_outstanding,amount_outstanding_date,interest_rate,interest_basis,status,status_date,covered,note_text,report_note,provider_contact_name,provider_phone,provider_address1,provider_address2,provider_address3,provider_town,provider_county,provider_country,provider_postcode,provider_note,case_type,joint_indicator,post_expected_message,patch_expected_message
+John,john doe,ann,credit card,residential purpose,Monthly,house construction,ABC,2023-11-24T00:51:38.836Z,2024-11-25T00:51:38.836Z,0,0,0,2023-11-25T00:51:38.836Z,0,Fixed,Pending,2023-11-25T00:51:38.836Z,yes,mortgage for primary residence,monthly payments are up to date,ABC,9876543,bank street,street2,street4,homevilia,hometon,USA,678897,contact main branch,Credit Cards,0,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,###%#%#,,Context and casetype are not matching,Context and casetype are not matching
+abcdefghijklmnopqrstuvwxyzabcdefgh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+abcdefghijklmnopqrstuvwxyzabcdefghi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Borrower cannot be longer than 35 characters,Borrower cannot be longer than 35 characters
+,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Borrower Name 1 cannot be longer than 50 characters,Borrower Name 1 cannot be longer than 50 characters
+,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Borrower Name 2 cannot be longer than 50 characters,Borrower Name 2 cannot be longer than 50 characters
+,,,abcdefghijklmnopqrstuvwxyzabcdefgh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,abcdefghijklmnopqrstuvwxyzabcdefghi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Liability Type cannot be longer than 35 characters,Liability Type cannot be longer than 35 characters
+,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Subtype cannot be longer than 50 characters,Subtype cannot be longer than 50 characters
+,,,,,abcdefghijklmnopqrstuvwxyzabcdefgh,,,,,,,,,,,,,,,,,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,abcdefghijklmnopqrstuvwxyzabcdefghi,,,,,,,,,,,,,,,,,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss,,,,,,,,,,,,,,,,,,,,,,,,,,,,Repayment Method cannot be longer than 35 characters,Repayment Method cannot be longer than 35 characters
+,,,,,,abcdefghijklmnopqrstuvwxyzabc,,,,,,,,,,,,,,,,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,abcdefghijklmnopqrstuvwxyzabcd,,,,,,,,,,,,,,,,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss,,,,,,,,,,,,,,,,,,,,,,,,,,,Purpose cannot be longer than 30 characters,Purpose cannot be longer than 30 characters
+,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefgh,,,,,,,,,,,,,,,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghi,,,,,,,,,,,,,,,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss,,,,,,,,,,,,,,,,,,,,,,,,,,Provider cannot be longer than 35 characters,Provider cannot be longer than 35 characters
+,,,,,,,,,,123456,,,,,,,,,,,,,,,,,,,,,,,Term cannot be longer than 5 digits,Term cannot be longer than 5 digits
+,,,,,,,,,,12345,,,,,,,,,,,,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,1234,,,,,,,,,,,,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,-1,,,,,,,,,,,,,,,,,,,,,,,Term must be a number,Term must be a number
+,,,,,,,,,,,12.12345,,,,,,,,,,,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,12.1234,,,,,,,,,,,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,12.12345,,,,,,,,,,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,12.1234,,,,,,,,,,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,2024-01-30T18:30:00.000Z,,,,,,,,,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,12.12345,,,,,,,,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,12.1234,,,,,,,,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefgh,,,,,,,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghi,,,,,,,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss,,,,,,,,,,,,,,,,,,Interest Basis cannot be longer than 35 characters,Interest Basis cannot be longer than 35 characters
+,,,,,,,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvw,,,,,,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwz,,,,,,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss,,,,,,,,,,,,,,,,,Status cannot be longer than 50 characters,Status cannot be longer than 50 characters
+,,,,,,,,,,,,,,,,,2024-01-30T18:30:00.000Z,,,,,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,abcderfghty,,,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,1234567,,,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,&^%$,,,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,avcdfg1234,,,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,avcdfg^%$,,,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,1236$%*&,,,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,abcd123%$#,,,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,abcderfghty,,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,1234567,,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,&^%$,,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,avcdfg1234,,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,avcdfg^%$,,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,1236$%*&,,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,abcd123%$#,,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,#$%^,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,43567,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,avcdfg1234,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,avcdfg^%$,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,1236$%*&,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,abcd123%$#,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvw,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwx,,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss,,,,,,,,,,,,Provider Contact cannot be longer than 50 characters,Provider Contact cannot be longer than 50 characters
+,,,,,,,,,,,,,,,,,,,,,,1234,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,&^%,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,%$#234,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,asd%$#,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,vggfg1234,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,abcdefghijklmnopqrs,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,abcdefghijklmnopqrst,,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss,,,,,,,,,,,Provider Phone cannot be longer than 20 digits,Provider Phone cannot be longer than 20 digits
+,,,,,,,,,,,,,,,,,,,,,,,#$%^,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,,qw23,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,,qw$$,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,,12$$,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,,12qw$$,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,,43567,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvw,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwx,,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,,ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss,,,,,,,,,,Provider Address Line 1 cannot be longer than 50 characters,Provider Address Line 1 cannot be longer than 50 characters
+,,,,,,,,,,,,,,,,,,,,,,,,#$%^,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,,,qw23,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,,,qw$$,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,,,12$$,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,,,12qw$$,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,,,43567,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvw,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwx,,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,,,ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss,,,,,,,,,Provider Address Line 2 cannot be longer than 50 characters,Provider Address Line 2 cannot be longer than 50 characters
+,,,,,,,,,,,,,,,,,,,,,,,,,#$%^,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,,,,qw23,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,,,,qw$$,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,,,,12$$,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,,,,12qw$$,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,,,,43567,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvw,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwx,,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,,,,ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss,,,,,,,,Provider Address Line 3 cannot be longer than 50 characters,Provider Address Line 3 cannot be longer than 50 characters
+,,,,,,,,,,,,,,,,,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabc,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabcd,,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,,,,,ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss,,,,,,,Town cannot be longer than 30 characters,Town cannot be longer than 30 characters
+,,,,,,,,,,,,,,,,,,,,,,,,,,,abcdefghijklmnopqrs,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,,,,,,abcdefghijklmnopqrst,,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,,,,,,ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss,,,,,,County cannot be longer than 20 characters,County cannot be longer than 20 characters
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,abcdefghijklmnopqr,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,abcdefghijklmnopqrst,,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss,,,,,Country cannot be longer than 20 characters,Country cannot be longer than 20 characters
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,abcdefg,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12    56,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12345678,,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ssssssssssssssssssssssss,,,,Postcode cannot be longer than 8 characters,Postcode cannot be longer than 8 characters
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,abcderfghty,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1234567,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,&^%$,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,abcd123%$#,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12qw,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12##,,,Liability details added successfully,Liability details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,qw##,,,Liability details added successfully,Liability details updated successfully

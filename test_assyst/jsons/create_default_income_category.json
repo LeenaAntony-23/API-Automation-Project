@@ -1,0 +1,10 @@
+{
+  "income": {
+    "customer_id": "string",
+    "income_categories": [
+      {
+        "income_category_id": "string"
+      }
+    ]
+  }
+}

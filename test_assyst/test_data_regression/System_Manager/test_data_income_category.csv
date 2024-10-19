@@ -1,0 +1,2 @@
+category,description,frequency,sort_order,auto_add,post_expected_message,patch_expected_message
+income,Income category,Monthly,2,1,Income category details added successfully,Income category details updated successfully

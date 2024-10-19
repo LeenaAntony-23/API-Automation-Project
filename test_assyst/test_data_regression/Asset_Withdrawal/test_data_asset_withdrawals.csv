@@ -1,0 +1,2 @@
+start_date,end_date,amount,business_category,note_text,withdrawal_type,high_risk,high_risk_note,reinvestment,frequency,post_expected_message,patch_expected_message
+2023-11-30T09:44:19.311Z,2023-11-30T09:44:19.311Z,0,0,withdrawal note,permanent,Yes,no current withdrawals,Yes,Monthly,Withdrawal added successfully,Withdrawal updated successfully

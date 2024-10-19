@@ -1,0 +1,2 @@
+client_value,first_names,title,former_last_name,last_name,initials,former_last_name,honours,known_as,address_1,address_2,address_3,address_name,salutation,joint_salutation,joint_address_label,country,county,town,postcode,post_expected_message,patch_expected_message
+client,api,Mrs,GNX,client,O,Jai,Dr,jo,Technopark,Trivandrum,kerala,House N.101,Mrs,Mr,Mr and Mrs,India,India,Trivandrum,695121,Client details added successfully,Client details updated successfully

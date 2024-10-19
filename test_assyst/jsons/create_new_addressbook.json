@@ -1,0 +1,23 @@
+{
+  "address_book": {
+    "customer_id": "string",
+    "address_type": "permanent",
+    "organisation": "GNX",
+    "contact_name": "Ethan",
+    "address_1": "1123 ELM steet",
+    "address_2": "Suite 100",
+    "address_3": "Bldg 5",
+    "town": "Los Angels",
+    "county": "Hampden",
+    "country": "USA",
+    "post_code": "786656",
+    "telephone": "2345675443",
+    "note_text": "Data Restore 2 primary residence",
+    "effective_date": "2023-11-17T07:15:36.673Z",
+    "email": "g@gmail.com",
+    "work_email": "g@gmail.com",
+    "home_phone": "2345675443",
+    "work_phone": "2345675443",
+    "mobile": "2345675443"
+  }
+}

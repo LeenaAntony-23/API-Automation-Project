@@ -1,0 +1,111 @@
+{
+  "asset_investment_actions": {
+    "customer_id": "string",
+    "case_id": "string",
+    "effective_date": "2024-03-21",
+    "tracking_case_actions": [
+      {
+        "tracking_id": "string"
+      }
+    ]
+  },
+
+  "liabilities_mortgages_actions": {
+    "customer_id": "string",
+    "case_id": "string",
+    "effective_date": "2024-03-21",
+    "tracking_case_actions": [
+      {
+        "tracking_id": "string"
+      }
+    ]
+  },
+
+  "liabilities_loan_hire_purchase_actions": {
+    "customer_id": "string",
+    "case_id": "string",
+    "effective_date": "2024-03-21",
+    "tracking_case_actions": [
+      {
+        "tracking_id": "string"
+      }
+    ]
+  },
+
+  "policies_life_assurance_actions": {
+    "customer_id": "string",
+    "case_id": "string",
+    "effective_date": "2024-03-21",
+    "tracking_case_actions": [
+      {
+        "tracking_id": "string"
+      }
+    ]
+  },
+
+  "policies_pensions_actions": {
+    "customer_id": "string",
+    "case_id": "string",
+    "effective_date": "2024-03-21",
+    "tracking_case_actions": [
+      {
+        "tracking_id": "string"
+      }
+    ]
+  },
+
+  "policies_investments_actions": {
+    "customer_id": "string",
+    "case_id": "string",
+    "effective_date": "2024-03-21",
+    "tracking_case_actions": [
+      {
+        "tracking_id": "string"
+      }
+    ]
+  },
+
+  "policies_savings_plans_actions": {
+    "customer_id": "string",
+    "case_id": "string",
+    "effective_date": "2024-03-21",
+    "tracking_case_actions": [
+      {
+        "tracking_id": "string"
+      }
+    ]
+  },
+
+  "policies_income_protection_actions": {
+    "customer_id": "string",
+    "case_id": "string",
+    "effective_date": "2024-03-21",
+    "tracking_case_actions": [
+      {
+        "tracking_id": "string"
+      }
+    ]
+  },
+
+  "policies_health_assurance_actions": {
+    "customer_id": "string",
+    "case_id": "string",
+    "effective_date": "2024-03-21",
+    "tracking_case_actions": [
+      {
+        "tracking_id": "string"
+      }
+    ]
+  },
+
+  "policies_general_actions": {
+    "customer_id": "string",
+    "case_id": "string",
+    "effective_date": "2024-03-21",
+    "tracking_case_actions": [
+      {
+        "tracking_id": "string"
+      }
+    ]
+  }
+}

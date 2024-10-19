@@ -1,0 +1,116 @@
+case_type,assured_name1,assured_name2,subtype,providerassigned_to,scheme_name,purpose,start_date,end_date,term,policy_number,premium,periodic_benefit,benefit_frequency,benefit_text,total_fund_value,valuation_date,benefits_indexed,status,report_note,other_reference,waiver,in_trust,in_trust_note,age_admitted,future_value,provider_phone,provider_note,provider_contact_name,status_date,service_status,policy_holder,assured_detail,surrender_value,lump_sum_benefit,admin_note,premium_indexed,post_expected_message,patch_expected_message
+Investments,Shiva,jay,investment,Amar tvm,investment,policy,2023-11-28T10:16:51.870Z,2024-11-28T10:16:51.870Z,0,MN88,0,0,Monthly,none,0,2023-11-28T10:16:51.870Z,yes,Active,no note,REF6566,none,child protection,contact provider,35,0,2344455,financial assistance,ABC,2023-11-28T10:16:51.870Z,Active,0,spouse,0,0,none,yes,Policy details added successfully,Policy details updated successfully
+string,string,string,string,string,string,string,2023-11-28T10:16:51.870Z,2023-11-28T10:16:51.870Z,0,string,0,0,string,string,0,2023-11-28T10:16:51.870Z,string,string,string,string,string,string,string,1,0,string,string,string,2023-11-28T10:16:51.870Z,string,0,string,0,0,string,string,Context and casetype are not matching,Context and casetype are not matching
+Investments,string,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,stringstringstringstringstringstringstringstringstringstring,Premium Indexed cannot be longer than 35 characters,Premium Indexed cannot be longer than 35 characters
+Investments,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,123,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,&&&,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12qw,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12%%,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23qw$$,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,qw$$,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,asasasasasasasasasasasasasasasasa,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,asvasasasasasasasasasasasasasasasa,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,203-11-28T10:16:51.871Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""start_date"" must be a valid date","""start_date"" must be a valid date"
+Investments,,,,,,,,223-11-28T10:16:51.871Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""end_date"" must be a valid date","""end_date"" must be a valid date"
+Investments,,,,,,,,,,,,,,,,,,,,,123,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,,,^^&^,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,,,rr&&,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,,,rr34%%,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,,,23$$,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,123,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,^^&^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,rr&&,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,rr34%%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,23$$,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,123,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,^^&^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,rr&&,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,rr34%%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,23$$,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,123,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,^^&^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,rr&&,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,rr34%%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,23$$,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,123,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,^^&^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,rr&&,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,rr34%%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,23$$,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,123,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,^^&^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,rr&&,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,rr34%%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,23$$,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,qqqqqqqqwwwwwwewewewewewwewwewewwewewewewewweweweeweewewwewwewwewwt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assured Name 1 cannot be longer than 35 characters,Assured Name 1 cannot be longer than 35 characters
+Investments,qwqqwqwqwqwqwqwqwqwqwqwqwqwqwq,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,qwqqqwqwqwqwqwqwqwqwqwqwqwqwqwq,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,qqqqqqqqwwwwwwewewewewewwewwewewwewewewewewweweweeweewewwewwewwewwt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assured Name 2 cannot be longer than 35 characters,Assured Name 2 cannot be longer than 35 characters
+Investments,,qwqqwqwqwqwqwqwqwqwqwqwqwqwqwq,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,qwqqqwqwqwqwqwqwqwqwqwqwqwqwqwq,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,qqqqqqqqwwwwwwewewewewewwewwewewwewewewewewweweweeweewewwewwewwewwt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Subtype cannot be longer than 50 characters,Subtype cannot be longer than 50 characters
+Investments,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,abdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,qqqqqqqqwwwwwwewewewewewwewwewewwewewewewewweweweeweewewwewwewwewwt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,assigned_to cannot be longer than 35 characters,assigned_to cannot be longer than 35 characters
+Investments,,,,qwqqwqwqwqwqwqwqwqwqwqwqwqwqwq,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,qwqqqwqwqwqwqwqwqwqwqwqwqwqwqwq,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,qqqqqqqqwwwwwwewewewewewwewwewewwewewewewewweweweeweewewwewwewwewwt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Purpose cannot be longer than 30 characters,Purpose cannot be longer than 30 characters
+Investments,,,,,,abcdefghijklmnopqrstuvwxyzabcd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,abcdeghijklmnopqrstuvwxyzabcd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,2024-01-27T18:30:00.000Z,2024-01-26T18:30:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Start Date is before End Date,Start Date is before End Date
+Investments,,,,,,,,,12345,,,,,,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,123456,,,,,,,,,,,,,,,,,,,,,,,,,,,,"value ""123456"" is out of range for type smallint","value ""123456"" is out of range for type smallint"
+Investments,,,,,,,,,-1,,,,,,,,,,,,,,,,,,,,,,,,,,,,Term must be a number,Term must be a number
+Investments,,,,,qqqqqqqqwwwwwwewewewewewwewwewewwewewewewewweweweeweewewwewwewwewwt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scheme Name cannot be longer than 50 characters,Scheme Name cannot be longer than 50 characters
+Investments,,,,,,,,,,,,,,,,,,,,qwerererererere,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,,123,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,,##,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,,qw##,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,,34$$,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,,qw44^^,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,,qwweeqwweweweerererrererererrererrererererre,,,,,,,,,,,,,,,,,Other Reference cannot be longer than 35 characters,Other Reference cannot be longer than 35 characters
+Investments,,,,,,,,,,,,,,,,,,enfghjklaasfghhhgghghjfytftcccrrerertertetrettykrqwertyuiodin,,,,,,,,,,,,,,,,,,,Status cannot be longer than 50 characters,Status cannot be longer than 50 characters
+Investments,,,,,,enfghjklaasfghhhgghghjfytftcccrrerertertetrettykrqwertyuiodin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Purpose cannot be longer than 30 characters,Purpose cannot be longer than 30 characters
+Investments,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,asdfghllhwertyuiqwertyuiooiuytrewqasdfghkuytresdfghjkyr,Premium Indexed cannot be longer than 35 characters,Premium Indexed cannot be longer than 35 characters
+Investments,,,,,,,,,,,,,,,,,,,,,asdfghllhwertyuiqwertyuiooiuytrewqasdfghkuytresdfghjkyr,,,,,,,,,,,,,,,,Waiver cannot be longer than 35 characters,Waiver cannot be longer than 35 characters
+Investments,,,,,,,,,,,,1.12E+00,,,,,,,,,,,,,,,,,,,,,,,,,"""periodic_benefit"" must be an integer","""periodic_benefit"" must be an integer"
+Investments,,,,,,,,,,,,,enfghjklaasfghhhgghghjfytftcccrrerertertetrettykrqwertyuiodin,,,,,,,,,,,,,,,,,,,,,,,,Benefit Frequency cannot be longer than 35 characters,Benefit Frequency cannot be longer than 35 characters
+Investments,,,,,,,,,,,,,,123,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,qwe,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,$$,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,12$$,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,qw^^,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,12qw#$,,,,,,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,,,,,123,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,,,,,qwe,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,,,,,$$,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,,,,,12$$,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,,,,,qw^^,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,,,,,12qw#$,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,123,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,qwe,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$$,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12$$,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,qw^^,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12qw#$,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,,,,,,,,,123,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,,,,,,,,,qwe,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,,,,,,,,,$$,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,,,,,,,,,12$$,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,,,,,,,,,qw^^,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,,,,,,,,,12qw#$,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,123,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,qwe,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,$$,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,12$$,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,qw^^,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,12qw#$,,,,,,,,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,,,,,,,,123,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,,,,,,,,qwe,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,,,,,,,,$$,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,,,,,,,,12$$,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,,,,,,,,qw^^,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,,,,,,,,12qw#$,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+Investments,,,,,,,,,,,,,,,,,,,,,,,,,,abcdefghijklmnopqrstuvw,,,,,,,,,,,Provider Phone cannot be longer than 20 digits,Provider Phone cannot be longer than 20 digits
+,,,,,,,,,,,,,,,,,,,,,,,,,,abcdefghijklmnopqrst,,,,,,,,,,,Policy details added successfully,Policy details updated successfully
+,,,,,,,,,,,,,,,,,,,,,,,,,,abcdefghijklmnopqst,,,,,,,,,,,Policy details added successfully,Policy details updated successfully

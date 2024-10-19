@@ -1,0 +1,2 @@
+note_date,note_time,note_text,note_type,category,post_expected_message,patch_expected_message
+2023-11-22T11:31:16.452Z,2023-11-22T11:31:16.452Z,note to be tested,document,0,Note details added successfully,Note details updated successfully

@@ -1,0 +1,28 @@
+category,item,reference,issued,expires,issued_at,seen,place_of_birth,date_of_birth,certified_copy,type,address_current,modified_by,modified,post_expected_message,patch_expected_message
+category,id,none,2023-11-22T06:51:49.774Z,2023-11-22T06:51:49.774Z,tvm,2023-11-22T06:51:49.774Z,string,2023-11-22T06:51:49.774Z,yes,id,permanent,supervisor,2023-11-22T06:51:49.774Z,Partner details added successfully,Partner details updated successfully
+abcdefghijklmnopqrstuvwx,,,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+abcdefghijklmnopqrstuvwxy,,,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+abcdefghijklmnopqrstuvwxyz,,,,,,,,,,,,,,Category cannot be longer than 25 characters,Category cannot be longer than 25 characters
+,abcdefghijklmnopqrstuvwxyzabcdefgh,,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+,abcdefghijklmnopqrstuvwxyzabcdefghi,,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+,abcdefghijklmnopqrstuvwxyzabcdefghij,,,,,,,,,,,,,Item cannot be longer than 35 characters,Item cannot be longer than 35 characters
+,,abcdefghijklmnopqrstuvwxyzabcdefgh,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+,,abcdefghijklmnopqrstuvwxyzabcdefghi,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+,,abcdefghijklmnopqrstuvwxyzabcdefghij,,,,,,,,,,,,Reference cannot be longer than 35 characters,Reference cannot be longer than 35 characters
+,,123,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+,,$$,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+,,qw,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+,,12qw,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+,,qw$$,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+,,we&^,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+,,qw23%%,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+,,,,,abcdefghijklmnopqrstuvwxyzabcdefgh,,,,,,,,,Partner details added successfully,Partner details updated successfully
+,,,,,abcdefghijklmnopqrstuvwxyzabcdefghi,,,,,,,,,Partner details added successfully,Partner details updated successfully
+,,,,,abcdefghijklmnopqrstuvwxyzabcdefghij,,,,,,,,,Issued at cannot be longer than 35 characters,Issued at cannot be longer than 35 characters
+,,,,,123,,,,,,,,,Partner details added successfully,Partner details updated successfully
+,,,,,$$,,,,,,,,,Partner details added successfully,Partner details updated successfully
+,,,,,qw,,,,,,,,,Partner details added successfully,Partner details updated successfully
+,,,,,12qw,,,,,,,,,Partner details added successfully,Partner details updated successfully
+,,,,,qw$$,,,,,,,,,Partner details added successfully,Partner details updated successfully
+,,,,,we&^,,,,,,,,,Partner details added successfully,Partner details updated successfully
+,,,,,qw23%%,,,,,,,,,Partner details added successfully,Partner details updated successfully

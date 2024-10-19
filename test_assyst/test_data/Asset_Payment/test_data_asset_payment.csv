@@ -1,0 +1,33 @@
+start_date,end_date,amount,frequency,new_business_register,reinvestment,note_text,payment_type,post_expected_message,patch_expected_message
+2020-08-08T04:58:44.788Z,2023-12-08T04:58:44.788Z,0,Weekly,yes,yes,to be tested,permanent,Payment details added successfully,Payment details updated successfully
+,,,,string,,,,Invalid value for business register.,Invalid value for business register.
+,,,,,string,,,Invalid value for reinvestment.,Invalid value for reinvestment.
+,,,,No,,,,Invalid value for business register.,Invalid value for business register.
+,,,,,No,,,Invalid value for reinvestment.,Invalid value for reinvestment.
+2023-12-08T04:58:44.788Z,2022-12-08T04:58:44.788Z,,,,,,,Start Date is before End Date,Start Date is before End Date
+,,,,,,123,,Payment details added successfully,Payment details updated successfully
+,,,,,,#$%,,Payment details added successfully,Payment details updated successfully
+,,,,,,34$%,,Payment details added successfully,Payment details updated successfully
+,,,,,,qw%^,,Payment details added successfully,Payment details updated successfully
+,,,,,,12qw^^,,Payment details added successfully,Payment details updated successfully
+,,,,,,asd,,Payment details added successfully,Payment details updated successfully
+,,,,,,123asd,,Payment details added successfully,Payment details updated successfully
+,,12.3,,,,,,Payment details added successfully,Payment details updated successfully
+,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefgh,Payment details added successfully,Payment details updated successfully
+,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghi,Payment details added successfully,Payment details updated successfully
+,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghij,Payment Type cannot be longer than 35 characters,Payment Type cannot be longer than 35 characters
+08-08T04:58:44.788Z,,,,,,,,"""start_date"" must be a valid date","""start_date"" must be a valid date"
+,08-08T04:58:44.788Z,,,,,,,"""end_date"" must be a valid date","""end_date"" must be a valid date"
+,,,Monthly,,,,,Payment details added successfully,Payment details updated successfully
+,,,4-weekly,,,,,Payment details added successfully,Payment details updated successfully
+,,,Quarterly,,,,,Payment details added successfully,Payment details updated successfully
+,,,Annual,,,,,Payment details added successfully,Payment details updated successfully
+,,,Half-yearly,,,,,Payment details added successfully,Payment details updated successfully
+,,,Fortnightly,,,,,Payment details added successfully,Payment details updated successfully
+,,,Single,,,,,Payment details added successfully,Payment details updated successfully
+,,,abc,,,,,Invalid frequency,Invalid frequency
+,,,,,,,23we&&,Payment details added successfully,Payment details updated successfully
+,,,,,,,er%%,Payment details added successfully,Payment details updated successfully
+,,,,,,,56**,Payment details added successfully,Payment details updated successfully
+,,,,,,,3434,Payment details added successfully,Payment details updated successfully
+,,,,,,,***,Payment details added successfully,Payment details updated successfully

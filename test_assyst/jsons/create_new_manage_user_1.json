@@ -1,0 +1,43 @@
+{
+  "username": "4b38e1ed-1fa7-4b0c-9084-2ebc8edded18@tekknology.com",
+  "enabled": true,
+  "totp": false,
+  "emailVerified": true,
+  "firstName": "jj",
+  "lastName": "jj",
+  "email": "4b38e1ed-1fa7-4b0c-9084-2ebc8edded18@tekknology.com",
+  "credentials": [
+    {
+      "type": "password",
+      "value": "tekk123",
+      "temporary": false
+    }
+  ],
+  "realmRoles": [
+    {
+      "id": "6f2baaff-10f8-432c-bde3-fba66ab19204",
+      "name": "allow-view-client",
+      "description": "Allow View Client",
+      "composite": false,
+      "clientRole": false,
+      "containerId": "c3268b41-6f90-4c0f-b007-6aabaf1c9b0b"
+    },
+    {
+      "id": "d7582b60-76f3-4525-85e3-aab7bda45bf1",
+      "name": "allow-update-client",
+      "description": "Update Client",
+      "composite": false,
+      "clientRole": false,
+      "containerId": "c3268b41-6f90-4c0f-b007-6aabaf1c9b0b"
+    },
+    {
+      "id": "51760a99-41cc-449f-b14d-c96fc7f9740f",
+      "name": "allow-add-client",
+      "description": "Allow Add Client",
+      "composite": false,
+      "clientRole": false,
+      "containerId": "c3268b41-6f90-4c0f-b007-6aabaf1c9b0b"
+    }
+  ],
+  "limit_users": []
+}

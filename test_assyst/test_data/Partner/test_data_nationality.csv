@@ -1,0 +1,17 @@
+nationality,place_of_birth,uk_residence,country_of_residence,country_of_domicile,patch_expected_message
+indian,tvpm,yes,uk,uk,Partner details updated successfully
+,,st$%678stringstringstringstringstringstringstringstringstringstringstring,,,uk_residence cannot be longer than 20 characters
+,,qqqqqqqqqqqqqqqqqqqq,,,Partner details updated successfully
+,,qqqqqqqqqqqqqqqqqqq,,,Partner details updated successfully
+,st$%678stringstringstringstringstringstringstringstringstringstringstring,,,,place_of_birth cannot be longer than 35 digits
+,qqeeeeeeeeeeeeeeeqqqqqqqqqqqqqqqqqq,,,,Partner details updated successfully
+,qqeeeeeeeeeeeeeeqqqqqqqqqqqqqqqqqq,,,,Partner details updated successfully
+st$%678stringstringstringstringstringstringstringstringstringstringstring,,,,,nationality cannot be longer than 35 digits
+qqeeeeeeeeeeeeeeeqqqqqqqqqqqqqqqqqq,,,,,Partner details updated successfully
+qqeeeeeeeeeeeeeeqqqqqqqqqqqqqqqqqq,,,,,Partner details updated successfully
+,,,st$%678stringstringstringstringstringstringstringstringstringstringstring,,country_of_residence cannot be longer than 35 digits
+,,,qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq,,Partner details updated successfully
+,,,qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq,,Partner details updated successfully
+,,,,st$%678stringstringstringstringstringstringstringstringstringstringstring,country_of_domicile cannot be longer than 35 characters
+,,,,qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq,Partner details updated successfully
+,,,,qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq,Partner details updated successfully

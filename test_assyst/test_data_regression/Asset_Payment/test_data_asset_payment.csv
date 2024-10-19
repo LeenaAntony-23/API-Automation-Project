@@ -1,0 +1,2 @@
+start_date,end_date,amount,frequency,new_business_register,reinvestment,note_text,payment_type,post_expected_message,patch_expected_message
+2023-12-08T04:58:44.788Z,2024-12-08T04:58:44.788Z,0,Weekly,yes,yes,to be tested,permanent,Payment details added successfully,Payment details updated successfully

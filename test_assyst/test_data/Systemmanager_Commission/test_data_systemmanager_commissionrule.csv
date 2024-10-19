@@ -1,0 +1,9 @@
+case_type,party_type,party_name,note_text,amount,amount_flag,post_expected_message,Patch_expected_message
+General,Consultant,net,first party,1,0,Commission Rule details added successfully,Commission Rule details updated successfully
+Mortgages,,,,,,Commission Rule details added successfully,Commission Rule details updated successfully
+Life Assurance,,,,,,Commission Rule details added successfully,Commission Rule details updated successfully
+Pensions,,,,,,Commission Rule details added successfully,Commission Rule details updated successfully
+Investments,,,,,,Commission Rule details added successfully,Commission Rule details updated successfully
+Savings plans,,,,,,Commission Rule details added successfully,Commission Rule details updated successfully
+Income Protection,,,,,,Commission Rule details added successfully,Commission Rule details updated successfully
+Health Assurance,,,,,,Commission Rule details added successfully,Commission Rule details updated successfully

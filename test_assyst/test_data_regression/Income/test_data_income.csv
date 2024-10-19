@@ -1,0 +1,2 @@
+owner,income_type,gross_amount,net_amount,frequency,source,start_date,end_date,note_text,sort_order,post_expected_message,patch_expected_message
+0,Salary,10,10,Monthly,Employer,2024-01-28T16:42:56.195Z,2024-12-28T16:42:56.195Z,Annual including bonus,0,Income details added successfully,Income details updated successfully

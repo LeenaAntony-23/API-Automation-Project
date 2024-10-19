@@ -1,0 +1,84 @@
+address_type,organisation,contact_name,address_1,address_2,address_3,town,county,country,post_code,telephone,note_text,effective_date,email,work_email,home_phone,work_phone,mobile,post_expected_message,patch_expected_message
+permanent,Gnx,John Doe,123 ELM street,Suite 100,Bldg 5,Spring field,Hampden,USA,6480254,4875246952,Primary residence,2023-11-28T19:54:08.726Z,shiv@gmal.com,shiv@gmal.com,4875246952,4875246952,9584512452,Addressbook details added successfully,Address book details updated successfully
+addressaddressaddressaddressaddres,,,,,,,,,,,,,,,,,,Addressbook details added successfully,Address book details updated successfully
+addressaddressaddressaddressaddress,,,,,,,,,,,,,,,,,,Addressbook details added successfully,Address book details updated successfully
+addressaddressaddressaddressaddressa,,,,,,,,,,,,,,,,,,Address type cannot be longer than 35 characters,Address type cannot be longer than 35 characters
+,123,,,,,,,,,,,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,$#$#,,,,,,,,,,,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,re#$,,,,,,,,,,,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,hg45,,,,,,,,,,,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,12&*^,,,,,,,,,,,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvw,,,,,,,,,,,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwx,,,,,,,,,,,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxy,,,,,,,,,,,,,,,,,Organisation cannot be longer than 50 characters,Organisation cannot be longer than 50 characters
+,,,,,,,,,86985500,,,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,,,,,,,,,1234567 9,,,,,,,,,Postcode cannot be longer than 8 characters,Postcode cannot be longer than 8 characters
+,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuv,,,,,,,,,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwx,,,,,,,,,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxy,,,,,,,,,,,,,,,Address Line 1 cannot be longer than 50 characters,Address Line 1 cannot be longer than 50 characters
+,,123,,,,,,,,,,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,,$#$#,,,,,,,,,,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,,re#$,,,,,,,,,,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,,hg45,,,,,,,,,,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,,12&*^,,,,,,,,,,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstu,,,,,,,,,,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwx,,,,,,,,,,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxy,,,,,,,,,,,,,,,,Contact Name cannot be longer than 50 characters,Contact Name cannot be longer than 50 characters
+,,,123,,,,,,,,,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,,,$#$#,,,,,,,,,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,,,re#$,,,,,,,,,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,,,hg45,,,,,,,,,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,,,12&*^,,,,,,,,,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,,,,123,,,,,,,,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,,,,$#$#,,,,,,,,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,,,,re#$,,,,,,,,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,,,,hg45,,,,,,,,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,,,,12&*^,,,,,,,,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstu,,,,,,,,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwx,,,,,,,,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxy,,,,,,,,,,,,,,Address Line 2 cannot be longer than 50 characters,Address Line 2 cannot be longer than 50 characters
+,,,,,123,,,,,,,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,,,,,$#$#,,,,,,,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,,,,,re#$,,,,,,,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,,,,,hg45,,,,,,,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,,,,,12&*^,,,,,,,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstu,,,,,,,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwx,,,,,,,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxy,,,,,,,,,,,,,Address Line 3 cannot be longer than 50 characters,Address Line 3 cannot be longer than 50 characters
+,,,,,,qqqqqqqqqqqqqqqqqqqqqqqqqqqqq,,,,,,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,,,,,,qqqwqqqqqqqqqqqqqqqqqqqqqqqqqq,,,,,,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,,,,,,qqqwqqqqqqqqqqqqqqqqqqqqqqqqqqQ,,,,,,,,,,,,Town cannot be longer than 30 characters,Town cannot be longer than 30 characters
+,,,,,,,qqqqqqqqqqqqqqqqqqq,,,,,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,,,,,,,qqqqwqqqqqqqqqqqqqqq,,,,,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,,,,,,,qqqqwqqqqqqqqqqqqqqqQ,,,,,,,,,,,County cannot be longer than 20 characters,County cannot be longer than 20 characters
+,,,,,,,,qqqqqqqqqqqqqqqqqqqqqqqqqqqqq,,,,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,,,,,,,,qqqwqqqqqqqqqqqqqqqqqqqqqqqqqq,,,,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,,,,,,,,qqqwqqqqqqqqqqqqqqqqqqqqqqqqqqQ,,,,,,,,,,Country cannot be longer than 30 characters,Country cannot be longer than 30 characters
+,,,,,,,,,,abc,,,,,,,,Telephone must be a valid number,Telephone must be a valid number
+,,,,,,,,,,,123,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,,,,,,,,,,,$#$#,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,,,,,,,,,,,re#$,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,,,,,,,,,,,hg45,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,,,,,,,,,,,12&*^,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,,,,,,,,,,,Abc,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,,,,,,,,,,,asd)(*567,,,,,,,Addressbook details added successfully,Address book details updated successfully
+,,,,,,,,,,,,,,,abc,,,Home Phone must be a valid number,Home Phone must be a valid number
+,,,,,,,,,,,,,,,,abc,,Work Phone must be a valid number,Work Phone must be a valid number
+,,,,,,,,,,,,,g@gmail.com,,,,,Addressbook details added successfully,Address book details updated successfully
+,,,,,,,,,,,,,g@@gmail.com,,,,,Email should be in valid format,Email should be in valid format
+,,,,,,,,,,,,,g@gmail,,,,,Email should be in valid format,Email should be in valid format
+,,,,,,,,,,,,,gmail.com,,,,,Email should be in valid format,Email should be in valid format
+,,,,,,,,,,,,,g @gmail.com,,,,,Email should be in valid format,Email should be in valid format
+,,,,,,,,,,,,,g@gmail com,,,,,Email should be in valid format,Email should be in valid format
+,,,,,,,,,,,,,qwertyuiopqwertyuiopoiuytrewtyuiopoiuytr@gmail.com,,,,,Addressbook details added successfully,Address book details updated successfully
+,,,,,,,,,,,,,qwqqqertyuiopqwertyuiopoiuytrewtyuiopoiuytr@gmail.com,,,,,Email cannot be longer than 50 characters,Email cannot be longer than 50 characters
+,,,,,,,,,,,,,,g@gmail.com,,,,Addressbook details added successfully,Address book details updated successfully
+,,,,,,,,,,,,,,g@@gmail.com,,,,Work Email should be in valid format,Work Email should be in valid format
+,,,,,,,,,,,,,,g@gmail,,,,Work Email should be in valid format,Work Email should be in valid format
+,,,,,,,,,,,,,,gmail.com,,,,Work Email should be in valid format,Work Email should be in valid format
+,,,,,,,,,,,,,,g @gmail.com,,,,Work Email should be in valid format,Work Email should be in valid format
+,,,,,,,,,,,,,,g@gmail com,,,,Work Email should be in valid format,Work Email should be in valid format
+,,,,,,,,,,,,,,qwertyuiopqwertyuiopoiuytrewtyuiopoiuytr@gmail.com,,,,Addressbook details added successfully,Address book details updated successfully
+,,,,,,,,,,,,,,qwqqqertyuiopqwertyuiopoiuytrewtyuiopoiuytr@gmail.com,,,,Work Email cannot be longer than 50 characters,Work Email cannot be longer than 50 characters
+,,,,,,,,,,,,,,,,,abc,Mobile must be a valid number,Mobile must be a valid number
+,,,,,,,,,,,,11-28T19:54:08.726Z,,,,,,"""effective_date"" must be a valid date","""effective_date"" must be a valid date"

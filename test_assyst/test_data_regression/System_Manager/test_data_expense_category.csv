@@ -1,0 +1,2 @@
+category,description,frequency,sort_order,discretionary,auto_add,post_expected_message,patch_expected_message
+Expenses,Social expense,Monthly,12,Essential,1,Expense category details added successfully,Expense category details updated successfully

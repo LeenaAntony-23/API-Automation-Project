@@ -1,0 +1,19 @@
+{
+  "identity": {
+    "customer_id": "string",
+    "category": "passport",
+    "item": "document",
+    "reference": "REF",
+    "issued": "2024-01-11T06:17:59.427Z",
+    "expires": "2025-01-11T06:17:59.427Z",
+    "issued_at": "Berlin office",
+    "seen": "2024-01-11T06:17:59.427Z",
+    "place_of_birth": "berlin",
+    "date_of_birth": "2024-01-11T06:17:59.427Z",
+    "certified_copy": "yes",
+    "type": "International",
+    "address_current": "Main street Berlin",
+    "modified_by": "admin",
+    "modified": "2024-01-11T06:17:59.427Z"
+  }
+}

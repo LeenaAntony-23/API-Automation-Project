@@ -1,0 +1,2 @@
+owner,owner_name1,owner_name2,home_description,home_date_acquired,home_original_value,current_value,value_date,note_text,report_note,purpose,joint_indicator,status_date,case_type,post_expected_message,patch_expected_message
+Client,John,Doe,permanent rsidence,2023-11-23T16:47:55.697Z,0,10,2023-11-23T16:47:55.697Z,to test,review,residential,0,2023-11-23T16:47:55.697Z,2,Asset details added successfully,Asset details updated successfully

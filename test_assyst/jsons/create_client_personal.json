@@ -1,0 +1,28 @@
+{
+ "personal": {
+    "sex": "Male",
+    "date_of_birth": "2023-12-08",
+    "preferred_retirement_age": "57",
+    "state_retirement_date": "2023-12-08T09:30:03.156Z",
+    "pension_life_allowance": "Standard",
+    "marital_status": "Married",
+    "date_of_marriage": "2023-12-08T09:30:03.156Z",
+    "esg_attitude": "positive",
+    "esg_attitude_note": "Client 2 Strong advocate for environmental sustainability",
+    "will_date": "2023-12-08T09:30:03.156Z",
+    "will_note": "Client 2 Will updated to include recent property purchase",
+    "power_of_attorney": "Lakshmi",
+    "deceased": "no",
+    "death_date": "2023-12-08T09:30:03.156Z",
+    "education_profession_experience": "Master's degree in Computer Science",
+    "ni_number": "AB134",
+    "unique_tax_ref": "5454545",
+    "tax_ref": "645454",
+    "tax_office": "HMRC London",
+    "tax_rate": "20",
+    "marriage_allowance": "yes",
+    "vulnerability": "no",
+    "vulnerability_note": "Data Restore 2 none"
+  }
+
+}

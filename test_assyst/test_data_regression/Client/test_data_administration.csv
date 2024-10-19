@@ -1,0 +1,2 @@
+client_type,fsa_client_type,client_reference,consultant,client_since,introduced_by,review_interval,review_date,review_note,review_assigned,review_completed,headline_note_popout,pending,note_text,patch_expected_message
+individual,retail,ref123,Amar Tvm,2023-12-06T05:02:12.780Z,admin,6,2023-12-06T05:02:12.780Z,review note,sundaram,2023-12-06T05:02:12.780Z,0,0,notes,Client details updated successfully

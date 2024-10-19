@@ -1,0 +1,89 @@
+{
+  "expense_category": {
+    "category": "Expenses",
+    "description": "Data Restore 2",
+    "frequency": "Monthly",
+    "sort_order": 10,
+    "discretionary": "Essential",
+    "auto_add": 1
+  },
+
+  "income_category": {
+    "category": "category1",
+    "description": "Data Restore 2",
+    "frequency": "Annual",
+    "sort_order": 110,
+    "auto_add": 0
+  },
+
+  "attitude_to_risk_category": {
+    "sort_order": 100,
+    "category": "category",
+    "description": "Data Restore 2",
+    "auto_add": 0
+  },
+
+  "attitude_to_risk_rating": {
+    "sort_order": 0,
+    "rating": "rating1",
+    "rating_score": 10,
+    "description": "Data Restore 2"
+  },
+
+  "objectives_detail": {
+    "sort_order": "10",
+    "detail": "OBJECTIVEs DETAIL",
+    "auto_add": 1
+  },
+
+  "provider": {
+    "group_name":"ABC assosciations",
+    "provider_name": "joy",
+    "contact_name": "Community",
+    "address1": "XYZ",
+    "address2": "house",
+    "address3": "bhavan",
+    "town": "LONDON",
+    "county": "India",
+    "country": "KOLLAM",
+    "postcode": "897655",
+    "telephone": "44555",
+    "fax": "78767",
+    "mobile": "676767",
+    "email": "SXDD@l.com",
+    "salutation": "mr",
+    "status": "married",
+    "note_text": "Data Restore 2"
+  },
+
+  "tracking_case_actions": {
+    "business_category": "case",
+    "case_type": "client actions",
+    "due_interval": 5,
+    "description": "Data Restore 2",
+    "assigned": "minnu"
+  },
+
+  "tracking_client_actions": {
+    "business_category": "client",
+    "case_type": "Business Category",
+    "due_interval": 15,
+    "description": "Data Restore 2",
+    "assigned": "minnu"
+  },
+
+  "user_defined_field": {
+    "name": "working hours",
+    "type": "1",
+    "length": 100
+  },
+
+
+    "objectives_category": {
+        "sort_order": 0,
+        "category": "objectives "
+    }
+
+}
+
+

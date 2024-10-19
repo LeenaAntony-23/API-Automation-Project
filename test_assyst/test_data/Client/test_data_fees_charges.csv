@@ -1,0 +1,25 @@
+frequency,introduced_by,case_category,provider,commission_type,note_text,payment_source,nb_register,consultant,payment_count,status,status_date,amount_to_company,start_date,end_date,post_expected_message,patch_expected_message
+Weekly,admin,0,ABC ,Client management fee,Details about the fee,Client,0,Amar tvm,11,0,2023-11-22T11:31:16.452Z,10,2023-02-22T11:31:16.452Z,2024-11-22T11:31:16.452Z,Fees and charges details added successfully,Fees and charges details updated successfully
+Weekly,,,,Client management fee,string,,,,,,,10,2023-11-22T11:31:16.452Z,2022-11-22T11:31:16.452Z,Start Date is before End Date,Start Date is before End Date
+Weekly,,,,Client management fee,string,,,,,,,10,2023-11-22T11:31:16.452Z,2024-11-22T11:31:16.452Z,Fees and charges details added successfully,Fees and charges details updated successfully
+Weekly,,,,Client management fee,123,,,,,,,10,2023-11-22T11:31:16.452Z,2024-11-22T11:31:16.452Z,Fees and charges details added successfully,Fees and charges details updated successfully
+Weekly,,,,Client management fee,##,,,,,,,10,2023-11-22T11:31:16.452Z,2024-11-22T11:31:16.452Z,Fees and charges details added successfully,Fees and charges details updated successfully
+Weekly,,,,Client management fee,qw23,,,,,,,10,2023-11-22T11:31:16.452Z,2024-11-22T11:31:16.452Z,Fees and charges details added successfully,Fees and charges details updated successfully
+Weekly,,,,Client management fee,12%%,,,,,,,10,2023-11-22T11:31:16.452Z,2024-11-22T11:31:16.452Z,Fees and charges details added successfully,Fees and charges details updated successfully
+Weekly,,,,Client management fee,$$ee,,,,,,,10,2023-11-22T11:31:16.452Z,2024-11-22T11:31:16.452Z,Fees and charges details added successfully,Fees and charges details updated successfully
+Weekly,,,,Client management fee,qw23%%,,,,,,,10,2023-11-22T11:31:16.452Z,2024-11-22T11:31:16.452Z,Fees and charges details added successfully,Fees and charges details updated successfully
+string,,,,Client management fee,,,,,,,,10,2023-11-22T11:31:16.452Z,2024-11-22T11:31:16.452Z,Invalid Frequency,Invalid Frequency
+Monthly,,,,Client management fee,,,,,,,,10,2023-11-22T11:31:16.452Z,2024-11-22T11:31:16.452Z,Fees and charges details added successfully,Fees and charges details updated successfully
+4-weekly,,,,Client management fee,,,,,,,,10,2023-11-22T11:31:16.452Z,2024-11-22T11:31:16.452Z,Fees and charges details added successfully,Fees and charges details updated successfully
+Quarterly,,,,Client management fee,,,,,,,,10,2023-11-22T11:31:16.452Z,2024-11-22T11:31:16.452Z,Fees and charges details added successfully,Fees and charges details updated successfully
+Annual,,,,Client management fee,,,,,,,,10,2023-11-22T11:31:16.452Z,2024-11-22T11:31:16.452Z,Fees and charges details added successfully,Fees and charges details updated successfully
+Half-yearly,,,,Client management fee,,,,,,,,10,2023-11-22T11:31:16.452Z,2024-11-22T11:31:16.452Z,Fees and charges details added successfully,Fees and charges details updated successfully
+Fortnightly,,,,Client management fee,,,,,,,,10,2023-11-22T11:31:16.452Z,2024-11-22T11:31:16.452Z,Fees and charges details added successfully,Fees and charges details updated successfully
+Fortnightly,,,,Client management fee,,,,,,,,10,2023-11-22T11:31:16.452Z,2024-11-22T11:31:16.452Z,Fees and charges details added successfully,Fees and charges details updated successfully
+Fortnightly,,,,Client management fee,,Product Provider,,,,,,10,2023-11-22T11:31:16.452Z,2024-11-22T11:31:16.452Z,Fees and charges details added successfully,Fees and charges details updated successfully
+Fortnightly,,,,Client management fee,,Platform,,,,,,10,2023-11-22T11:31:16.452Z,2024-11-22T11:31:16.452Z,Fees and charges details added successfully,Fees and charges details updated successfully
+Fortnightly,,,,Client management fee,,,,,,,,10,223-11-22T11:31:16.452Z,2024-11-22T11:31:16.452Z,Start date must be a valid date,Start date must be a valid date
+Fortnightly,,,,Client management fee,,,,,,,,10,2023-11-22T11:31:16.452Z,202-11-22T11:31:16.452Z,End date must be a valid date,End date must be a valid date
+Fortnightly,,,,Client management fee,,,,,-1,,,10,2023-11-22T11:31:16.452Z,2024-11-22T11:31:16.452Z,Payment count must be a number,Payment count must be a number
+Fortnightly,,,,Client management fee,,string,,,,,,11,2023-11-22T11:31:16.452Z,2024-11-22T11:31:16.452Z,Invalid payment source,Invalid payment source
+Fortnightly,,,,sring,,,,,,,,12,2023-11-22T11:31:16.452Z,2024-11-22T11:31:16.452Z,Invalid comission type,Invalid commission type

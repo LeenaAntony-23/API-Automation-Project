@@ -1,0 +1,28 @@
+category,item,reference,issued,expires,issued_at,seen,place_of_birth,date_of_birth,certified_copy,type,address_current,modified_by,modified,post_expected_message,patch_expected_message
+passport,document,ref,2023-11-22T06:51:49.774Z,2023-11-22T06:51:49.774Z,berlin office,2023-11-22T06:51:49.774Z,berlin,2023-11-22T06:51:49.774Z,yes,International,main street berlin,admin,2023-11-22T06:51:49.774Z,Client details added successfully,Client details updated successfully
+abcdefghijklmnopqrstuvwx,,,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+abcdefghijklmnopqrstuvwxy,,,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+abcdefghijklmnopqrstuvwxyz,,,,,,,,,,,,,,Category cannot be longer than 25 characters,Category cannot be longer than 25 characters
+,abcdefghijklmnopqrstuvwxyzabcdefgh,,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+,abcdefghijklmnopqrstuvwxyzabcdefghi,,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+,abcdefghijklmnopqrstuvwxyzabcdefghij,,,,,,,,,,,,,Item cannot be longer than 35 characters,Item cannot be longer than 35 characters
+,,abcdefghijklmnopqrstuvwxyzabcdefgh,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+,,abcdefghijklmnopqrstuvwxyzabcdefghi,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+,,abcdefghijklmnopqrstuvwxyzabcdefghij,,,,,,,,,,,,Reference cannot be longer than 35 characters,Reference cannot be longer than 35 characters
+,,123,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+,,$$,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+,,qw,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+,,12qw,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+,,qw$$,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+,,we&^,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+,,qw23%%,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+,,,,,abcdefghijklmnopqrstuvwxyzabcdefgh,,,,,,,,,Client details added successfully,Client details updated successfully
+,,,,,abcdefghijklmnopqrstuvwxyzabcdefghi,,,,,,,,,Client details added successfully,Client details updated successfully
+,,,,,abcdefghijklmnopqrstuvwxyzabcdefghij,,,,,,,,,Issued at cannot be longer than 35 characters,Issued at cannot be longer than 35 characters
+,,,,,123,,,,,,,,,Client details added successfully,Client details updated successfully
+,,,,,$$,,,,,,,,,Client details added successfully,Client details updated successfully
+,,,,,qw,,,,,,,,,Client details added successfully,Client details updated successfully
+,,,,,12qw,,,,,,,,,Client details added successfully,Client details updated successfully
+,,,,,qw$$,,,,,,,,,Client details added successfully,Client details updated successfully
+,,,,,we&^,,,,,,,,,Client details added successfully,Client details updated successfully
+,,,,,qw23%%,,,,,,,,,Client details added successfully,Client details updated successfully

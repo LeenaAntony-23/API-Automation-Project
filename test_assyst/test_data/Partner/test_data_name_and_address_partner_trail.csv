@@ -1,0 +1,129 @@
+client_value,first_names,title,former_last_name,last_name,initials,former_last_name,honours,known_as,address_1,address_2,address_3,address_name,salutation,joint_salutation,joint_address_label,country,county,town,postcode,post_expected_message,patch_expected_message
+partner,Ann,Mrs,Ann,Jaison,O,Jai,Dr,jo,indivaram,tvm,kerala,House N.101,M,Mr,Mr and Mrs,India,India,TVM,695121,Partner details added successfully,Partner details updated successfully
+partner,Jose,Mr,Jose,Jacob,j,Jac,Dr,jo,chinmayam,tvm,kerala,House N.102,M,Mr,Mr and Mrs,India,India,TVM,695006,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,test,,Client,,,,,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,12,,Client,,,,,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,abcdefghijklmnopqrstuvwxyzabcdefgh,,Client,,,,,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,abcdefghijklmnopqrstuvwxyzabcdefghi,,Client,,,,,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,abcdefghijklmnopqrstuvwxyzabcdefghij,,Client,,,,,,,,,,,,,,,,Title cannot be longer than 35 characters,Title cannot be longer than 35 characters
+partner,äöüßáéíñóú¿¡,,,Client,,,,,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,T,,,Client,,,,,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,T,,,Client,,,,,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,test12!,,,Client,,,,,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,abcdefghijklmnopqrstuvwxyzabc,,,Client,,,,,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,abcdefghijklmnopqrstuvwxyzabcd,,,Client,,,,,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,abcdefghijklmnopqrstuvwxyzabcde,,,Client,,,,,,,,,,,,,,,,First Name cannot be longer than 30 characters,First Name cannot be longer than 30 characters
+partner,Test,,,Client,Mr,,,,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,12,,,,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,Mr%$^12,,,,,,,,,,,,,,,Initials cannot be longer than 5 characters,Initials cannot be longer than 5 characters
+partner,Test,,,Client,$%^,,,,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,äöüßáéíñóú¿¡,,,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,test,,,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,12,,,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,abcdefghijklmnopqrstuvwxyzabc,,,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,abcdefghijklmnopqrstuvwxyzabcd,,,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,abcdefghijklmnopqrstuvwxyzabcde,,,,,,,,,,,,,,Former Last Name cannot be longer than 30 characters,Former Last Name cannot be longer than 30 characters
+partner,Test,,,Client,,$%^,,,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,test5$%^,,,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwx,,,,,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxy,,,,,,,,,,,,,,,,Last Name cannot be longer than 50 characters,Last Name cannot be longer than 50 characters
+partner,Test,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvw,,,,,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,äöüßáéíñóú¿¡,,,,,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,T,,,,,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,$%^,,,,,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,client5$%^,,,,,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,,,,,,,,Bristol,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,,,,,,,,12,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,,,,,,,,$%^,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,,,,,,,,Bristol5$%^,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,,,,,,England,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,,,,,,12,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,,,,,,$%^,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,,,,,,England5$%^,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,,,,,,,Kent,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,,,,,,,12,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,,,,,,,$%^,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,,,,,,,Kent5$%^,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,abcdefghijklmnopqrs,,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,abcdefghijklmnopqrst,,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,abcdefghijklmnopqrstu,,,,,,,,,,,,,Honours cannot be longer than 20 characters,Honours cannot be longer than 20 characters
+partner,Test,,,Client,,,12,,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,$%^,,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,test5$%^,,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,12,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,$%^,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,test5$%^,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,abcdefghijklmnopqrs,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,abcdefghijklmnopqrst,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,abcdefghijklmnopqrstu,,,,,,,,,,,,Known As cannot be longer than 20 characters,Known As cannot be longer than 20 characters
+partner,Test,,,Client,,,,,äöüßáéíñóú¿¡,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvw,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwx,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxy,,,,,,,,,,,Address Line 1 cannot be longer than 50 characters,Address Line 1 cannot be longer than 50 characters
+partner,Test,,,Client,,,,,test,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,12,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,$%^,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,test5$%^,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,äöüßáéíñóú¿¡,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvw,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwx,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxy,,,,,,,,,,Address Line 2 cannot be longer than 50 characters,Address Line 2 cannot be longer than 50 characters
+partner,Test,,,Client,,,,,,test,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,12,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,$%^,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,test5$%^,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,äöüßáéíñóú¿¡,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvw,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwx,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxy,,,,,,,,,Address Line 3 cannot be longer than 50 characters,Address Line 3 cannot be longer than 50 characters
+partner,Test,,,Client,,,,,,,test,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,12,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,$%^,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,test5$%^,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvw,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwx,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxy,,,,,,,,Address Name cannot be longer than 50 characters,Address Name cannot be longer than 50 characters
+partner,Test,,,Client,,,,,,,,test,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,,12,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,,$%^,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,,test5$%^,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,,,test,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,,,abcdefghijklmnopqrstuvwx,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,,,abcdefghijklmnopqrstuvwxy,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,,,abcdefghijklmnopqrstuvwxyz,,,,,,,Salutation cannot be longer than 25 characters,Salutation cannot be longer than 25 characters
+partner,Test,,,Client,,,,,,,,,12,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,,,$%^,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,,,test5$%^,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,,,,,test,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvw,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwx,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxy,,,,,Joint Address Name cannot be longer than 100 characters,Joint Address Name cannot be longer than 100 characters
+partner,Test,,,Client,,,,,,,,,,,12,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,,,,,$%^,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,,,,,test5$%^,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,,,,,,,,,12345678,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,,,,,,,,,123456789,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,,,,,,,,,1234567890,Postcode cannot be longer than 9 characters,Postcode cannot be longer than 9 characters
+partner,Test,,,Client,,,,,,,,,,test,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvw,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwx,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxy,,,,,,Joint Salutation cannot be longer than 100 characters,Joint Salutation cannot be longer than 100 characters
+partner,Test,,,Client,,,,,,,,,,12,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,,,,$%^,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,,,,test5$%^,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,aaefrasdaddaqaqaqaqaqaqaqaqaqaqaqaqaqaqqq,Client,,,,,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,123,Client,,,,,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,12qa##,Client,,,,,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,*&^,Client,,,,,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,123,,,Client,,,,,,,,,,,,,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,,,,,,,,,69 5509,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabc,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabcd,,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabcde,,,,Country cannot be longer than 30 characters,Country cannot be longer than 30 characters
+partner,Test,,,Client,,,,,,,,,,,,,abcdefghijklmnopqrs,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,,,,,,,abcdefghijklmnopqrst,,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,,,,,,,abcdefghijklmnopqrstu,,,County cannot be longer than 30 characters,County cannot be longer than 30 characters
+partner,Test,,,Client,,,,,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabc,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabcd,,Partner details added successfully,Partner details updated successfully
+partner,Test,,,Client,,,,,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabcde,,Town cannot be longer than 30 characters,Town cannot be longer than 30 characters

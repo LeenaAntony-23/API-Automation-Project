@@ -1,0 +1,2 @@
+description,frequency,client_amount,partner_amount,joint_amount,sort_order,discretionary,post_expected_message,patch_expected_message
+Notes to test,Weekly,10,10,20,0,Committed,Outgoing details added successfully,Outgoing details updated successfully

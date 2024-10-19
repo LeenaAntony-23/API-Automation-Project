@@ -1,0 +1,5 @@
+sort_order,detail,auto_add,post_expected_message,patch_expected_message
+2,OBJECTIVEs DETAIL,1,Objective details added successfully,Objective details updated successfully
+2,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwx,1,Objective details added successfully,Objective details updated successfully
+2,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuv,1,Objective details added successfully,Objective details updated successfully
+2,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabc,1,Detail cannot be longer than 35 characters,Detail cannot be longer than 35 characters

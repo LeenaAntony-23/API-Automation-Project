@@ -1,0 +1,13 @@
+allocated_date,duration,note_text,resource,post_expected_message,patch_expected_message
+2023-11-22T11:31:16.452Z,2023-11-22T11:31:16.452Z,notetext,resource,Client details added successfully,Client details updated successfully
+202-11-22T11:31:16.452Z,,note,,"""Allocated date"" must be valid date","""Allocated date"" must be valid date"
+2023-11-22T11:31:16.452Z,,12345,,Client details added successfully,Client details updated successfully
+2023-11-22T11:31:16.452Z,,&^*%,,Client details added successfully,Client details updated successfully
+2023-11-22T11:31:16.452Z,,1234^%&,,Client details added successfully,Client details updated successfully
+2023-11-22T11:31:16.452Z,,asd546,,Client details added successfully,Client details updated successfully
+2023-11-22T11:31:16.452Z,,dfg*&^,,Client details added successfully,Client details updated successfully
+2023-11-22T11:31:16.452Z,,sdf654(*&,,Client details added successfully,Client details updated successfully
+2023-11-22T11:31:16.452Z,,note,123,Client details added successfully,Client details updated successfully
+2023-11-22T11:31:16.452Z,,note,abcdefghijklmnopqrstuvwxyzabcdefgh,Client details added successfully,Client details updated successfully
+2023-11-22T11:31:16.452Z,,note,abcdefghijklmnopqrstuvwxyzabcdefghi,Client details added successfully,Client details updated successfully
+2023-11-22T11:31:16.452Z,,note,abcdefghijklmnopqrstuvwxyzabcdefghij,Resource cannot be longer than 35 characters,Resource cannot be longer than 35 characters

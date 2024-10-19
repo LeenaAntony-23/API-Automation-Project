@@ -1,0 +1,49 @@
+owner,income_type,gross_amount,net_amount,frequency,source,start_date,end_date,note_text,sort_order,post_expected_message,patch_expected_message
+2,Salary,0,0,Weekly,Employer,2023-11-28T16:42:56.195Z,2023-11-28T16:42:56.195Z,Annual including bonus,0,Income details added successfully,Income details updated successfully
+,,,,,,,,123,,Income details added successfully,Income details updated successfully
+,,,,,,,,&^*,,Income details added successfully,Income details updated successfully
+,,,,,,,,Qee123,,Income details added successfully,Income details updated successfully
+,,,,,,,,we%^,,Income details added successfully,Income details updated successfully
+,,,,,,,,12%%,,Income details added successfully,Income details updated successfully
+,,,,,,,,123asd##,,Income details added successfully,Income details updated successfully
+,,,,,,2023-11-28T16:42:56.195Z,2022-11-28T16:42:56.195Z,,,Start Date should be before End Date,Start Date should be before End Date
+,,1.23E+13,,,,,,,,Income details added successfully,Income details updated successfully
+,,1.1234,,,,,,,,Income details added successfully,Income details updated successfully
+,,12.12345,,,,,,,,Gross amount must follow decimal rule,Gross amount must follow decimal rule
+,,,1.23E+13,,,,,,,Income details added successfully,Income details updated successfully
+,,,1.1234,,,,,,,Income details added successfully,Income details updated successfully
+,,,12.12345,,,,,,,Net amount must follow decimal rule,Net amount must follow decimal rule
+,,,,,,202-11-28T16:42:56.195Z,2023-11-29T16:42:56.195Z,,,Start Date must be a valid Date,Start Date must be a valid Date
+,,,,,,,202-11-28T16:42:56.195Z,,,End Date must be a valid date,End Date must be a valid date
+,abcdefghijklmnopqrstuvwxyzabcdefghijk,,,,,,,,,Type cannot be longer than 35 characters,Type cannot be longer than 35 characters
+,abcdefghijklmnopqrstuvwxyzabcdefghi,,,,,,,,,Income details added successfully,Income details updated successfully
+,abcdefghijklmnopqrstuvwxyzabcdefghi,,,,,,,,,Income details added successfully,Income details updated successfully
+,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijk,,,,,Source cannot be longer than 35 characters,Source cannot be longer than 35 characters
+,,,,,abcdefghijklmnopqrstuvwxyzabcdefghi,,,,,Income details added successfully,Income details updated successfully
+,,,,,abcdefghijklmnopqrstuvwxyzabcdefgh,,,,,Income details added successfully,Income details updated successfully
+111,,,,,,,,,,Invalid owner,Invalid owner
+,,,,Monthly,,,,,,Income details added successfully,Income details updated successfully
+,,,,4-weekly,,,,,,Income details added successfully,Income details updated successfully
+,,,,Quarterly,,,,,,Income details added successfully,Income details updated successfully
+,,,,Annual,,,,,,Income details added successfully,Income details updated successfully
+,,,,Half-yearly,,,,,,Income details added successfully,Income details updated successfully
+,,,,Fortnightly,,,,,,Income details added successfully,Income details updated successfully
+,,,,Weekly,,,,,,Income details added successfully,Income details updated successfully
+,,,,abc,,,,,,Invalid frequency,Invalid frequency
+0,,,,,,,,,,Income details added successfully,Income details updated successfully
+1,,,,,,,,,,Income details added successfully,Income details updated successfully
+,1234,,,,,,,,,Income details added successfully,Income details updated successfully
+,###,,,,,,,,,Income details added successfully,Income details updated successfully
+,12##,,,,,,,,,Income details added successfully,Income details updated successfully
+,qw12,,,,,,,,,Income details added successfully,Income details updated successfully
+,qw$$,,,,,,,,,Income details added successfully,Income details updated successfully
+,qw3$$,,,,,,,,,Income details added successfully,Income details updated successfully
+,,,,,1234,,,,,Income details added successfully,Income details updated successfully
+,,,,,###,,,,,Income details added successfully,Income details updated successfully
+,,,,,12##,,,,,Income details added successfully,Income details updated successfully
+,,,,,qw12,,,,,Income details added successfully,Income details updated successfully
+,,,,,qw$$,,,,,Income details added successfully,Income details updated successfully
+,,,,,qw3$$,,,,,Income details added successfully,Income details updated successfully
+,,-1,,,,,,,,Gross amount must follow decimal rule,Gross amount must follow decimal rule
+,,,-1,,,,,,,Net amount must follow decimal rule,Net amount must follow decimal rule
+,,,,,,,,,-1,Sort Order must be a number,Sort Order must be a number

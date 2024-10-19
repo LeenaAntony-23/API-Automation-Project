@@ -1,0 +1,12 @@
+{
+  "outgoings": {
+    "customer_id": "string",
+    "description": "Current household expense",
+    "frequency": "Monthly",
+    "client_amount": 2,
+    "partner_amount": 2,
+    "joint_amount": 2,
+    "sort_order": 0,
+    "discretionary": "Committed"
+  }
+}

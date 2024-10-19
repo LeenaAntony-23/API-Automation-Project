@@ -1,0 +1,17 @@
+{
+  "commission_types": {
+    "category": 0,
+    "description": "api",
+    "commission_type": "api",
+    "sort_order": "11"
+  },
+
+  "commission_rule": {
+    "case_type": "General",
+    "party_type": "",
+    "party_name": "net",
+    "note_text": "",
+    "amount": 1,
+    "amount_flag": 0
+  }
+}

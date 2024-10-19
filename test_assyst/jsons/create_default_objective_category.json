@@ -1,0 +1,12 @@
+{
+  "Objective": {
+    "customer_id":"string",
+    "objectives": [
+      {
+        "detail_id": "string"
+
+      }
+
+    ]
+  }
+}

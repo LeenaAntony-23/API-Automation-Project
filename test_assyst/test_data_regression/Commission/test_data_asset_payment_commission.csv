@@ -1,0 +1,2 @@
+frequency,provider,commission_type,status_date,start_date,end_date,status,note_text,nb_register,payment_source,consultant,introduced_by,case_category,amount_to_company,post_expected_message,patch_expected_message
+Weekly,ABC,Client advice fee,2024-01-10T03:04:15.411Z,2024-01-18T03:04:15.411Z,2024-12-10T03:04:15.411Z,0,additional notes,0,Product Provider,Amar tvm,admin,0,1,Commission details added successfully,Commission details updated successfully

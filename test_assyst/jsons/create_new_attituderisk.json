@@ -1,0 +1,8 @@
+{
+  "attitude_to_risk": {
+    "customer_id": "string",
+    "category": "test",
+    "score": 0,
+    "rating": "Data Restore 2"
+  }
+}

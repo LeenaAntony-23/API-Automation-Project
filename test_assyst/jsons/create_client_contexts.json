@@ -1,0 +1,273 @@
+{
+  "contacts_client_action": {
+    "customer_id": "string",
+    "appointment_date": "2023-12-21T14:19:19.090Z",
+    "appointment_time": "2023-12-21T14:19:19.090Z",
+    "appointment_type": "Client Action",
+    "appointment_note": "Data Restore 2 Appointment Note",
+    "appointment_assigned": "Amar tvm",
+    "appointment_status": "Pending"f
+  },
+  "administration": {
+    "client_type": "client type",
+    "fsa_client_type": "client type",
+    "client_reference": "admin",
+    "consultant": "Amar tvm",
+    "client_since": "2023-12-08T09:30:03.156Z",
+    "introduced_by": "admin",
+    "review_interval": 0,
+    "review_date": "2023-12-08T09:30:03.156Z",
+    "review_note": "data restore 2 test note",
+    "review_assigned": "Amar tvm",
+    "review_completed": "2024-12-08T09:30:03.156Z",
+    "headline_note_popout": 0,
+    "pending": 0,
+    "note_text": "Data Restore 2 test note"
+  },
+  "compliance": {
+    "business_card": "2023-12-08T09:30:03.156Z",
+    "client_agreement": "2023-12-08T09:30:03.156Z",
+    "terms_of_business_sent": "2023-12-08T09:30:03.156Z",
+    "idd": "2023-12-08T09:30:03.156Z",
+    "fact_find_completed": "2023-12-08T09:30:03.156Z",
+    "menu": "2023-12-08T09:30:03.156Z",
+    "data_protection_form_sent": "2023-12-08T09:30:03.156Z",
+    "risk_profile": "2023-12-08T09:30:03.156Z",
+    "risk_profile_note": "Data Restore 2 risk note",
+    "verification_of_identity": "2023-12-08T09:30:03.156Z",
+    "sanctions_check": "2023-12-08T09:30:03.156Z"
+  },
+
+  "contacts_notes": {
+
+        "note_date": "2040-01-11T06:17:59.427Z",
+        "note_time": "2040-01-11T06:17:59.427Z",
+        "note_text": "Data Restore 2 contact note",
+        "note_type": "string",
+        "file_link": "string",
+        "category": 0
+  },
+   "fact_find_notes": {
+
+     "note_date": "2040-12-25T19:00:03.737Z",
+     "note_time": "2040-12-25T19:00:03.737Z",
+     "note_text": "Data Restore 2",
+     "note_type": "string",
+     "file_link": "string",
+     "category": 0
+  },
+  "employment": {
+    "principal_employment": "full time",
+    "occupation": "Engineer",
+    "employment_type": "IT",
+    "employer_name": "GNX",
+    "address_1": "nikunjam",
+    "address_2": "street1",
+    "address_3": "street2",
+    "town": "tvm",
+    "county": "county",
+    "country": "India",
+    "postcode": "698876",
+    "phone": "9876543214",
+    "fax": "3664556",
+    "start_date": "2023-12-28T03:45:30.441Z",
+    "end_date": "2024-12-28T03:45:30.441Z",
+    "salary_review_date": "2024-12-28T03:45:30.441Z",
+    "payroll_id": "1234",
+    "position": "senior devpr",
+    "controlling_director": "John Doe",
+    "shareholding": "10",
+    "note_text": "Data Restore 2 employment note",
+    "employment_basis": "W2",
+    "retirement_age": 65,
+    "death_in_service_yn": 0,
+    "death_in_service": "allowed",
+    "sick_pay_yn": 0,
+    "sick_pay": "allowed",
+    "pmi_yn": 0,
+    "pmi": "allowed",
+    "phi_yn": 0,
+    "phi": "allowed",
+    "critical_illness_yn":0,
+    "critical_illness": "none",
+    "company_car_yn": 0,
+    "company_car": "allowed",
+    "share_options_yn": 0,
+    "share_options": "none",
+    "other_yn": 0,
+    "other": "none",
+    "pension_yn": 0,
+    "pension": "granted",
+    "auto_enrolment": "done",
+    "cash_calc_id": 0
+  },
+  "identity": {
+    "customer_id": "string",
+    "category": "passport",
+    "item": "document",
+    "reference": "REF",
+    "issued": "2024-01-11T06:17:59.427Z",
+    "expires": "2025-01-11T06:17:59.427Z",
+    "issued_at": "Berlin office",
+    "seen": "2024-01-11T06:17:59.427Z",
+    "place_of_birth": "berlin",
+    "date_of_birth": "2024-01-11T06:17:59.427Z",
+    "certified_copy": "yes",
+    "type": "International",
+    "address_current": "Main street Berlin",
+    "modified_by": "admin",
+    "modified": "2024-01-11T06:17:59.427Z"
+  },
+  "objectives": {
+    "customer_id": "string",
+    "category": "category",
+    "sort_order": 0,
+    "objective_description": "objective",
+    "applicable": 0,
+    "comments": "nil",
+    "rating": 0,
+    "modified_by": "self",
+    "modified": "2024-01-11T06:17:59.427Z",
+    "cash_calc_id": 0
+  },
+  "service_type": {
+    "customer_id": "string",
+    "description": "servicetype",
+    "start_date": "2024-01-11T06:17:59.427Z",
+    "end_date": "2024-01-11T06:17:59.427Z"
+
+    },
+  "contacts_time_allocation": {
+    "customer_id": "string",
+    "allocated_date": "2023-12-08T06:23:51.212Z",
+    "duration": "2023-12-08T06:23:51.212Z",
+    "note_text": "Data Restore 2 note time",
+    "resource": "add"
+  },
+  "fees_charges": {
+    "customer_id": "string",
+    "frequency": "Quarterly",
+    "introduced_by": "none",
+    "case_category": 0,
+    "provider": "ABC",
+    "commission_type": "Client management fee",
+    "note_text": "Data Restore 2 fees note",
+    "payment_source": "Client",
+    "nb_register": 0,
+    "consultant": "Amar tvm",
+    "payment_count": "count",
+    "status": 0,
+    "status_date": "2023-12-08T06:23:51.213Z",
+    "amount_to_company": 0,
+    "start_date": "2023-12-08T06:23:51.213Z",
+    "end_date": "2024-12-08T06:23:51.213Z"
+  },
+  "name_and_address": {
+    "client_value": "client",
+    "title": "Mr",
+    "first_names": "testing",
+    "initials": "J",
+    "last_name": "client",
+    "former_last_name": "Ann",
+    "honours": "PhD",
+    "known_as": "Maria",
+    "address_1": "123 main street",
+    "address_2": "apt 4B",
+    "address_3": "building 7",
+    "address_name": "Doe residence",
+    "salutation": "Mr",
+    "joint_salutation": "Mr&Mrs",
+    "joint_address_label": "Doe household",
+    "country": "Los Angeles",
+    "county": "USA",
+    "town": "Los Angeles",
+    "postcode": "698878",
+    "customer_id": "string"
+  },
+  "contact": {
+    "home_phone": "987654723",
+    "work_phone": "987654723",
+    "fax": "98776",
+    "work_fax": "343434",
+    "mobile": "987654723",
+    "work_email": "workmail@gmail.com",
+    "email": "workmail@gmail.com",
+    "primary_contact": "home_phone",
+    "email_marketing": "email",
+    "postal_marketing": "postal",
+    "preferred_contact_time": "evening",
+    "preferred_commucation_type": "email"
+  },
+  "nationality": {
+    "nationality": "American",
+    "place_of_birth": "Los Angeles",
+    "uk_residence": "no",
+    "country_of_residence": "USA",
+    "country_of_domicile": "USA"
+  },
+  "personal": {
+    "sex": "Male",
+    "date_of_birth": "2023-12-08",
+    "preferred_retirement_age": "57",
+    "state_retirement_date": "2023-12-08T09:30:03.156Z",
+    "pension_life_allowance": "Standard",
+    "marital_status": "Married",
+    "date_of_marriage": "2023-12-08T09:30:03.156Z",
+    "esg_attitude": "positive",
+    "esg_attitude_note": "Data Restore 2 Strong advocate for environmental sustainability",
+    "will_date": "2023-12-08T09:30:03.156Z",
+    "will_note": "Data Restore 2 Will updated to include recent property purchase",
+    "power_of_attorney": "John Doe",
+    "deceased": "no",
+    "death_date": "2023-12-08T09:30:03.156Z",
+    "education_profession_experience": "Master's degree in Computer Science",
+    "ni_number": "AB134",
+    "unique_tax_ref": "5454545",
+    "tax_ref": "645454",
+    "tax_office": "HMRC London",
+    "tax_rate": "20",
+    "marriage_allowance": "yes",
+    "vulnerability": "no",
+    "vulnerability_note": "Data Restore 2"
+  },
+  "health_note": {
+    "height": "180",
+    "weight": "75",
+    "state_of_health": "good",
+    "health_note": "Data Restore 2 no known chronic conditions",
+    "long_term_care_needed": "no",
+    "smoker": "no",
+    "smoker_note": "Data Restore 2 NA",
+    "alcohol_note": "Data Restore 2 occational drinker",
+    "hazardous_pursuit_note": "Data Restore 2 NA"
+  },
+
+  "attitude_to_risk": {
+    "customer_id": "string",
+    "category": "test",
+    "score": 0,
+    "rating": "test"
+  },
+
+  
+   "vulnerability": {
+    "customer_id": "string",
+    "vulnerabilitydriver_id": "cd2191bf-b54d-45b4-bc9a-132d9709769d",
+    "ratings": 666,
+    "vulnerabilitycharacteristic_id": "78379c0d-229c-451d-b31d-d8dfdde92fc3",
+    "vulnerability_date": "2024-05-14T18:30:00.000Z",
+    "note_text": "Data Restore 2 vulnerability data"
+  },
+
+  "user_defined_values": [
+    {
+      "user_defined_field_id": "string",
+      "value": 1,
+      "customer_id": "string"
+    }
+  ]
+}
+
+
+
+

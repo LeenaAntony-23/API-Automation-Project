@@ -1,0 +1,11 @@
+category,description,sort_order,commission_type,post_expected_message,patch_expected_message
+0,descr,11,descr,Commissiontype details added successfully,Commissiontype details updated successfully
+1,,,commission,Commissiontype details added successfully,Commissiontype details updated successfully
+2,,,commission,Commissiontype details added successfully,Commissiontype details updated successfully
+4,,,commission,Invalid category,Invalid category
+1,employmentemploymetemploymentemploymentemploymentemploymentemploymentemploymentemploymentemployment,,commission,Commissiontype details added successfully,Commissiontype details updated successfully
+1,employmentemploymentemploymentemploymentemploymentemploymentemploymentemploymentemploymentemployment,,commission,Commissiontype details added successfully,Commissiontype details updated successfully
+1,employmentemploymentemqploymentemploymentemploymentemploymentemploymentemploymentemploymentemployment,,commission,Description cannot be longer than 100 characters,Description cannot be longer than 100 characters
+1,,,employmenteloymentemploymentemploymentemploymentt,Commissiontype details added successfully,Commissiontype details updated successfully
+1,,,emplooymenteloymentemploymentemploymentemploymentt,Commissiontype details added successfully,Commissiontype details updated successfully
+1,,,emploooymenteloymentemploymentemploymentemploymentt,CommissionType cannot be longer than 50 characters,CommissionType cannot be longer than 50 characters

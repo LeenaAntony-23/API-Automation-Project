@@ -1,0 +1,16 @@
+business_date,business_action,business_assigned,business_status,business_category,post_expected_message,patch_expected_message
+2023-12-06T06:29:45.625Z,loan,Amar tvm,Active,0,Action details added successfully,Action details updated successfully
+202-12-06T06:29:45.625Z,,,,,"""business_date"" must be a valid date","""business_date"" must be a valid date"
+,123,,,,Action details added successfully,Action details updated successfully
+,$%%,,,,Action details added successfully,Action details updated successfully
+,12##,,,,Action details added successfully,Action details updated successfully
+,qw##,,,,Action details added successfully,Action details updated successfully
+,qw##123,,,,Action details added successfully,Action details updated successfully
+,12qw,,,,Action details added successfully,Action details updated successfully
+,,,qwqwqwqwqwqwqwqwqwqwqwqwqwqw,,Action details added successfully,Action details updated successfully
+,,,qwqwqwqwqwqwqwqwqwqwqwqewqwqw,,Action details added successfully,Action details updated successfully
+,,,qwqwqwqwqwqwqwqwqwqwqwwqewqwqw,,business_status cannot be longer than 35 characters,business_status cannot be longer than 35 characters
+,,qwqwqwqwqwqwqwqwqwqwqwqwqwqw,,,Action details added successfully,Action details updated successfully
+,,qwqwqwqwqwqwqwqwqwqwqwqewqwqw,,,Action details added successfully,Action details updated successfully
+,,qwqwqwqwqwqwqwqwqwqwqwwqewqwqw,,,Assigned cannot be longer than 35 characters,Assigned cannot be longer than 35 characters
+,,,,100,Invalid business category type,Invalid business category type

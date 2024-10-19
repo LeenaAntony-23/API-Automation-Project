@@ -1,0 +1,17 @@
+{
+  "dependants": {
+    "customer_id": "string",
+    "title": "Mrs",
+    "first_names": "Niya",
+    "last_name": "Alex",
+    "known_as": "Aly",
+    "sex": "female",
+     "date_of_birth": "2023-11-19T13:04:22.652Z",
+    "relation": "partner",
+    "parent": "no",
+    "smoker": "non smoker",
+    "living_at_home": "yes",
+    "financially_dependant": "no",
+    "note_text": "Data Restore 2 dependant of client"
+  }
+}

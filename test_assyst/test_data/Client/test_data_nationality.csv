@@ -1,0 +1,17 @@
+nationality,place_of_birth,uk_residence,country_of_residence,country_of_domicile,patch_expected_message
+British,London,yes,London,London,Client details updated successfully
+,,qqqqqqqqqqqqqqqqqqqqq,,,Resident Abroad cannot be longer than 20 characters
+,,qqqqqqqqqqqqqqqqqqqq,,,Client details updated successfully
+,,qqqqqqqqqqqqqqqqqqq,,,Client details updated successfully
+,abcdefghijklmnopqrstuvwxyzabcdefghij,,,,Place of Birth cannot be longer than 35 digits
+,abcdefghijklmnopqrstuvwxyzabcdefghi,,,,Client details updated successfully
+,abcdefghijklmnopqrstuvwxyzabcdefgh,,,,Client details updated successfully
+abcdefghijklmnopqrstuvwxyzabcdefghij,,,,,Nationality cannot be longer than 35 digits
+abcdefghijklmnopqrstuvwxyzabcdefghi,,,,,Client details updated successfully
+abcdefghijklmnopqrstuvwxyzabcdefgh,,,,,Client details updated successfully
+,,,abcdefghijklmnopqrstuvwxyzabcdefghij,,Country of Residence cannot be longer than 35 digits
+,,,abcdefghijklmnopqrstuvwxyzabcdefghi,,Client details updated successfully
+,,,abcdefghijklmnopqrstuvwxyzabcdefgh,,Client details updated successfully
+,,,,abcdefghijklmnopqrstuvwxyzabcdefghij,Country of Domicile cannot be longer than 35 characters
+,,,,abcdefghijklmnopqrstuvwxyzabcdefghi,Client details updated successfully
+,,,,abcdefghijklmnopqrstuvwxyzabcdefgh,Client details updated successfully

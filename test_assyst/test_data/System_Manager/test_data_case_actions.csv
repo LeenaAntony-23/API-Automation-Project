@@ -1,0 +1,8 @@
+business_category,case_type,due_interval,description,assigned,post_expected_message,patch_expected_message
+case,client action,2,business,hh,Case Action details added successfully,Case Action details updated successfully
+case,client action,2,business,hghghghghghghghghghghghghghg,Case Action details added successfully,Case Action details updated successfully
+case,client action,2,business,hghgxhghghghghghghghghghghghg,Case Action details added successfully,Case Action details updated successfully
+case,client action,2,business,htrtrtrtrtrtrtrtrtrtrtrtrtrtrtertrtr,Assigned cannot be longer than 35 characters,Assigned cannot be longer than 35 characters
+case,htrtrtrtrtrtrtrtrtrtrtrtrtrtertrtr,2,business,,Case Action details added successfully,Case Action details updated successfully
+case,htrtrtrtrtrtrttrtrtrtrtrtrtrtertrtr,2,business,,Case Action details added successfully,Case Action details updated successfully
+case,htrtrtrtrtrtrtrtrtrtrtrtrtrtrtertrtr,2,business,,Case Type cannot be longer than 35 characters,Case Type cannot be longer than 35 characters

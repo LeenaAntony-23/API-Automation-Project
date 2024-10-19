@@ -1,0 +1,5 @@
+category,description,sort_order,auto_add,post_expected_message,patch_expected_message
+category1,description1,2,1,Attitude category details added successfully,Attitude category details updated successfully
+abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwx,abcd,2,1,Attitude category details added successfully,Attitude category details updated successfully
+abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvw,abcd,2,1,Attitude category details added successfully,Attitude category details updated successfully
+abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcd,abcd,2,1,Category cannot be longer than 50 characters,Category cannot be longer than 50 characters

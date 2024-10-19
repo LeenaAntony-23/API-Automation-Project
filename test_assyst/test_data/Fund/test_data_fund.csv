@@ -1,0 +1,40 @@
+fund_code,fund_code_source,fund_name,fund_units,unit_price,currency_code,price_date,fund_value,sector,total_expense_ratio,risk_rating,post_expected_message,patch_expected_message
+AE33223,0,fixed,0,0,EUR,2024-01-21T16:38:27.203Z,0,primary,0,456,Fund details added successfully,Fund details updated successfully
+,,,,,string,,,,,,Currency cannot be longer than 4 characters,Currency cannot be longer than 4 characters
+abcdefghijk,,,,,,,,,,,Fund details added successfully,Fund details updated successfully
+abcdefghijkl,,,,,,,,,,,Fund details added successfully,Fund details updated successfully
+abcdefghijklmnopqr,,,,,,,,,,,Fund Code cannot be longer than 12 characters,Fund Code cannot be longer than 12 characters
+12345,,,,,,,,,,,Fund details added successfully,Fund details updated successfully
+&^%*,,,,,,,,,,,Fund details added successfully,Fund details updated successfully
+2345*&^,,,,,,,,,,,Fund details added successfully,Fund details updated successfully
+4567sfdg,,,,,,,,,,,Fund details added successfully,Fund details updated successfully
+gfhh&^*,,,,,,,,,,,Fund details added successfully,Fund details updated successfully
+ghj^%&123,,,,,,,,,,,Fund details added successfully,Fund details updated successfully
+,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuv,,,,,,,,,Fund details added successfully,Fund details updated successfully
+,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz,,,,,,,,,Fund Name cannot be longer than 100 characters,Fund Name cannot be longer than 100 characters
+,,abcdefghijklmnopqrs,,,,,,,,,Fund details added successfully,Fund details updated successfully
+,,1234354,,,,,,,,,Fund details added successfully,Fund details updated successfully
+,,%$#^%&,,,,,,,,,Fund details added successfully,Fund details updated successfully
+,,%$#6789,,,,,,,,,Fund details added successfully,Fund details updated successfully
+,,%$#frgyhu,,,,,,,,,Fund details added successfully,Fund details updated successfully
+,,ghjf4567,,,,,,,,,Fund details added successfully,Fund details updated successfully
+,,tgyhu657$*&^,,,,,,,,,Fund details added successfully,Fund details updated successfully
+,,,12.12345,,,,,,,,Fund Units must follow decimal rule,Fund Units must follow decimal rule
+,,,12.1234,,,,,,,,Fund details added successfully,Fund details updated successfully
+,,,,1.23E+13,,,,,,,Fund details added successfully,Fund details updated successfully
+,,,,12.12345678,,,,,,,Unit Price must be follow decimal rule,Unit Price must be follow decimal rule
+,,,,12.1234,,,,,,,Fund details added successfully,Fund details updated successfully
+,,,,,INR,,,,,,Fund details added successfully,Fund details updated successfully
+,,,,,,,12.12345,,,,Fund Value must be follow decimal rule,Fund Value must be follow decimal rule
+,,,,,,,12.1234,,,,Fund details added successfully,Fund details updated successfully
+,,,,,,,1.23E+13,,,,Fund details added successfully,Fund details updated successfully
+,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklm,,,Fund details added successfully,Fund details updated successfully
+,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuv,,,Fund details added successfully,Fund details updated successfully
+,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz,,,Sector cannot be longer than 100 characters,Sector cannot be longer than 100 characters
+,,,,,,,,,,12.12345678,"""risk_rating"" must be an integer","""risk_rating"" must be an integer"
+,1,,,,,,,,,,Fund details added successfully,Fund details updated successfully
+,2,,,,,,,,,,Fund details added successfully,Fund details updated successfully
+,,,,,,204-01-21T16:38:27.203Z,,,,,"""price_date"" must be a valid date","""price_date"" must be a valid date"
+,,,,,,,,,12.12345,,Total expense ratio must be follow decimal rule,Total expense ratio must be follow decimal rule
+,,,,,,,,,12.1234,,Fund details added successfully,Fund details updated successfully
+,,,,,,,,,1.23E+13,,Fund details added successfully,Fund details updated successfully

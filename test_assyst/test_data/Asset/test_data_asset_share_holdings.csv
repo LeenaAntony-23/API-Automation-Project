@@ -1,0 +1,90 @@
+case_type,owner,owner_name1,owner_name2,share_type,share_subtype,share_company,share_current_number,share_current_price,current_value,share_original_value,value_date,share_date_acquired,share_status,status_date,service_status,note_text,report_note,provider_contact_name,provider_phone,provider_note,joint_indicator,post_expected_message,patch_expected_message
+1,Client,John,Doe,stock,preffered,baby corp,12345,0,0,0,2023-11-23T16:47:55.697Z,2023-11-23T16:47:55.697Z,Active,2023-11-23T16:47:55.697Z,Managed,note,report,Jane Smith,1234,contact for portfolio management,0,Asset details added successfully,Asset details updated successfully
+,Partner,,,,,,,,,,,,,,,,,,,,1,Asset details added successfully,Asset details updated successfully
+,Joint,,,,,,,,,,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,##,,,,,,,,,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,%%2333,,,,,,,,,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,asdd3455,,,,,,,,,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,eree^^,,,,,,,,,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,ass344%%,,,,,,,,,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,,##,,,,,,,,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,,%%2333,,,,,,,,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,,asdd3455,,,,,,,,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,,eree^^,,,,,,,,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,,ass344%%,,,,,,,,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,,,##,,,,,,,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,,,%%2333,,,,,,,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,,,asdd3455,,,,,,,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,,,eree^^,,,,,,,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,,,ass344%%,,,,,,,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,##,,,,,,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,%%2333,,,,,,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,asdd3455,,,,,,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,eree^^,,,,,,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,ass344%%,,,,,,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz,,,,,,,,,,,,,,,,,,,,Owner Name 1 cannot be longer than 50 characters,Owner Name 1 cannot be longer than 50 characters
+,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwx,,,,,,,,,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvw,,,,,,,,,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,,,,,,,,,string,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,,,,,,,,,!@#$%^,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,,,,,,,,,12345,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,,,,,,,,,qw##,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,,,,,,,,,12&&,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,,,,,,,,,12qw,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,,,,,,,,,12qw##,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvw,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwx,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxy,,,,Provider Contact cannot be longer than 50 characters,Provider Contact cannot be longer than 50 characters
+,,,,,,,,,,,,,,,,,,12356,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,,,,,,,,,,qw12,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,,,,,,,,,,qw$$,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,,,,,,,,,,12qw$$,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,,,,,,,,,,12$$,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,,,,,,,,,,*&^,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,,,,,,,,,,,,string,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,,,,,,,,,,,,!@#$%^,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,,,,,,,,,,,,12345,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,,,,,,,,,,,,qw##,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,,,,,,,,,,,,12&&,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,,,,,,,,,,,,12qw,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,,,,,,,,,,,,12qw##,,Asset details added successfully,Asset details updated successfully
+,sssssssssssssssssssssssssssssssssssssssssssssssssssssss,,,,,,,,,,,,,,,,,,,,,Owner Detail cannot be longer than 35 characters,Owner Detail cannot be longer than 35 characters
+,,,ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss,,,,,,,,,,,,,,,,,,,Owner Name 2 cannot be longer than 50 characters,Owner Name 2 cannot be longer than 50 characters
+,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwx,,,,,,,,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvw,,,,,,,,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,,,ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss,,,,,,,,,,,,,,,,,,Type cannot be longer than 35 characters,Type cannot be longer than 35 characters
+,,,,abcdefghijklmnopqrstuvwxyzabcdefghi,,,,,,,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,,,abcdefghijklmnopqrstuvwxyzabcdefg,,,,,,,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss,,,,,,,,,,,,,,,,,Subtype cannot be longer than 35 characters,Subtype cannot be longer than 35 characters
+,,,,,abcdefghijklmnopqrstuvwxyzabcdefghi,,,,,,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,abcdefghijklmnopqrstuvwxyzabcdefgh,,,,,,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss,,,,,,,,,,,,,,,,Company cannot be longer than 50 characters,Company cannot be longer than 50 characters
+,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwx,,,,,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvw,,,,,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,,,,,,,sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss,,,,,,,Service status cannot be longer than 35 characters,Service status cannot be longer than 35 characters
+,,,,,,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghi,,,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdef,,,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,,,,,,,,,,ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss,,,,Company Contact cannot be longer than 50 characters,Company Contact cannot be longer than 50 characters
+,,,,,,,,,,,,,,,,,,,ssssssssssssssssssssssssss,,,Company Phone cannot be longer than 20 digits,Company Phone cannot be longer than 20 digits
+,,,,,,,,,,,,,,,,,,,12300000000000q0000,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,,,,,,,,,,,12300000000000w0000,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,,,,,,,,,,,-596,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,,,,,,,,abcdefg,,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,,,,,,,,12345,,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,,,,,,,,qw##,,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,,,,,,,,12&&,,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,,,,,,,,12qw,,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,,,,,,,,12qw##,,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,,,,,,,,(*&,,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,2.123456,,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,2.1234,,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,2.12,,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,-12563,,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,2.123456,,,,,,,,,,,,,,Share Current Price must be follow decimal rule,Share Current Price must be follow decimal rule
+,,,,,,,,2.1234,,,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,2.12,,,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,-12563,,,,,,,,,,,,,,Current Price must be follow decimal rule,Current Price must be follow decimal rule
+,,,,,,,,,,2.123456,,,,,,,,,,,,Share Original Value must be follow decimal rule,Share Original Value must be follow decimal rule
+,,,,,,,,,,2.1234,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,,2.12,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,,-12563,,,,,,,,,,,,Original Value must be follow decimal rule,Original Value must be follow decimal rule

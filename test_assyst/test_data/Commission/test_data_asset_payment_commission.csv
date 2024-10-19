@@ -1,0 +1,21 @@
+frequency,provider,commission_type,status_date,start_date,end_date,status,note_text,nb_register,payment_source,consultant,introduced_by,case_category,amount_to_company,post_expected_message,patch_expected_message
+Weekly,ABC,Client advice fee,2024-01-10T03:04:15.411Z,2024-01-10T03:04:15.411Z,2024-01-10T03:04:15.411Z,0,additional notes,0,Product Provider,Amar tvm,admin,0,1,Commission details added successfully,Commission details updated successfully
+,,Client advice fee,,2024-01-10T03:04:15.411Z,2024-01-10T03:04:15.411Z,,,,Client,,,,,Commission details added successfully,Commission details updated successfully
+,,Client advice fee,,2024-01-10T03:04:15.411Z,2024-01-10T03:04:15.411Z,,,,string,,,,,Invalid payment source,Invalid payment source
+,,Client advice fee,,2024-01-10T03:04:15.411Z,2024-01-10T03:04:15.411Z,-123,,,Platform,,,,,Commission details added successfully,Commission details updated successfully
+,,Client advice fee,,2024-01-10T03:04:15.411Z,2024-01-10T03:04:15.411Z,,,,,,,,1.1234,Commission details added successfully,Commission details updated successfully
+,,Client advice fee,,2024-01-10T03:04:15.411Z,2024-01-10T03:04:15.411Z,,fdhggh,,,,,,,Commission details added successfully,Commission details updated successfully
+,,Client advice fee,,2024-01-10T03:04:15.411Z,2024-01-10T03:04:15.411Z,,234,,,,,,,Commission details added successfully,Commission details updated successfully
+,,Client advice fee,,2024-01-10T03:04:15.411Z,2024-01-10T03:04:15.411Z,,&^%,,,,,,,Commission details added successfully,Commission details updated successfully
+,,Client advice fee,,2024-01-10T03:04:15.411Z,2024-01-10T03:04:15.411Z,,12%%,,,,,,,Commission details added successfully,Commission details updated successfully
+,,Client advice fee,,2024-01-10T03:04:15.411Z,2024-01-10T03:04:15.411Z,,qw^^,,,,,,,Commission details added successfully,Commission details updated successfully
+,,Client advice fee,,2024-01-10T03:04:15.411Z,2024-01-10T03:04:15.411Z,,12ww,,,,,,,Commission details added successfully,Commission details updated successfully
+,,Client advice fee,,2024-01-10T03:04:15.411Z,2024-01-10T03:04:15.411Z,,qw23&&,,,,,,,Commission details added successfully,Commission details updated successfully
+,,Client advice fee,,2024-01-10T03:04:15.411Z,2022-01-10T03:04:15.411Z,,,,,,,,,Start date should come before end date,Start date should come before end date
+Monthly,,Client advice fee,,2024-01-10T03:04:15.411Z,2024-01-10T03:04:15.411Z,,,,,,,,,Commission details added successfully,Commission details updated successfully
+4-weekly,,Client advice fee,,2024-01-10T03:04:15.411Z,2024-01-10T03:04:15.411Z,,,,,,,,,Commission details added successfully,Commission details updated successfully
+Quarterly,,Client advice fee,,2024-01-10T03:04:15.411Z,2024-01-10T03:04:15.411Z,,,,,,,,,Commission details added successfully,Commission details updated successfully
+Annual,,Client advice fee,,2024-01-10T03:04:15.411Z,2024-01-10T03:04:15.411Z,,,,,,,,,Commission details added successfully,Commission details updated successfully
+Half-yearly,,Client advice fee,,2024-01-10T03:04:15.411Z,2024-01-10T03:04:15.411Z,,,,,,,,,Commission details added successfully,Commission details updated successfully
+Fortnightly,,Client advice fee,,2024-01-10T03:04:15.411Z,2024-01-10T03:04:15.411Z,,,,,,,,,Commission details added successfully,Commission details updated successfully
+Single,,Client advice fee,,2024-01-10T03:04:15.411Z,2024-01-10T03:04:15.411Z,,,,,,,,,Commission details added successfully,Commission details updated successfully

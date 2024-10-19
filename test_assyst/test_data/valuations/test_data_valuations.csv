@@ -1,0 +1,10 @@
+effective_date,valuation_amount,note_text,post_expected_message,patch_expected_message
+2023-11-28T19:54:08.726Z,1,note ,Valuation details added successfully,Valuation details updated successfully
+2023-11-28T19:54:08.726Z,1,123,Valuation details added successfully,Valuation details updated successfully
+2023-11-28T19:54:08.726Z,1,testnote,Valuation details added successfully,Valuation details updated successfully
+2023-11-28T19:54:08.726Z,1,%%%,Valuation details added successfully,Valuation details updated successfully
+2023-11-28T19:54:08.726Z,1,12%%,Valuation details added successfully,Valuation details updated successfully
+2023-11-28T19:54:08.726Z,1,qw%%,Valuation details added successfully,Valuation details updated successfully
+2023-11-28T19:54:08.726Z,1,qw23%%,Valuation details added successfully,Valuation details updated successfully
+2023-11-28T19:54:08.726Z,1.23E+09,,Valuation details added successfully,Valuation details updated successfully
+2023-11-28T19:54:08.726Z,1.23E+11,,Valuation details added successfully,Valuation details updated successfully

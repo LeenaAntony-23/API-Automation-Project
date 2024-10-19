@@ -1,0 +1,29 @@
+start_date,end_date,amount,business_category,note_text,withdrawal_type,high_risk,high_risk_note,reinvestment,frequency,post_expected_message,patch_expected_message
+2023-11-30T09:44:19.311Z,2023-11-30T09:44:19.311Z,0,0,withdrawal note,permanent,Yes,no current withdrawals,Yes,Monthly,Withdrawal added successfully,Withdrawal updated successfully
+2023-11-01T09:44:19.311Z,2023-11-30T09:44:19.311Z,0,,,,No,,No,,Withdrawal added successfully,Withdrawal updated successfully
+2023-11-01T09:44:19.311Z,2023-10-28T09:44:19.311Z,0,,,,,,,,Start Date is before End Date,Start Date is before End Date
+2023-11-01T09:44:19.311Z,2024-01-01T09:44:19.311Z,123.4,,,,,,,,Withdrawal added successfully,Withdrawal updated successfully
+2023-11-01T09:44:19.311Z,2024-01-01T09:44:19.311Z,0,,,,,abcderfghty,,,Withdrawal added successfully,Withdrawal updated successfully
+,,,,,,,1234567,,,Withdrawal added successfully,Withdrawal updated successfully
+,,,,,,,&^%$,,,Withdrawal added successfully,Withdrawal updated successfully
+,,,,,,,avcdfg1234,,,Withdrawal added successfully,Withdrawal updated successfully
+,,,,,,,avcdfg^%$,,,Withdrawal added successfully,Withdrawal updated successfully
+,,,,,,,1236$%*&,,,Withdrawal added successfully,Withdrawal updated successfully
+,,,,,,,abcd123%$#,,,Withdrawal added successfully,Withdrawal updated successfully
+,,,,abcderfghty,,,,,,Withdrawal added successfully,Withdrawal updated successfully
+,,,,1234567,,,,,,Withdrawal added successfully,Withdrawal updated successfully
+,,,,&^%$,,,,,,Withdrawal added successfully,Withdrawal updated successfully
+,,,,avcdfg1234,,,,,,Withdrawal added successfully,Withdrawal updated successfully
+,,,,avcdfg^%$,,,,,,Withdrawal added successfully,Withdrawal updated successfully
+,,,,1236$%*&,,,,,,Withdrawal added successfully,Withdrawal updated successfully
+,,,,abcd123%$#,,,,,Monthly,Withdrawal added successfully,Withdrawal updated successfully
+,,,,,,,,,4-weekly,Withdrawal added successfully,Withdrawal updated successfully
+,,,,,,,,,Quarterly,Withdrawal added successfully,Withdrawal updated successfully
+,,,,,,,,,Annual,Withdrawal added successfully,Withdrawal updated successfully
+,,,,,,,,,Half-yearly,Withdrawal added successfully,Withdrawal updated successfully
+,,,,,,,,,Fortnightly,Withdrawal added successfully,Withdrawal updated successfully
+,,,,,,,,,Single,Withdrawal added successfully,Withdrawal updated successfully
+,,,,,,string,,,,Invalid high_risk,Invalid high_risk
+,,,,,,,,string,,Invalid reinvestment,Invalid reinvestment
+,,,,,,,,,string,Invalid frequency,Invalid frequency
+202-11-01T09:44:19.311Z,2024-01-01T09:44:19.311Z,,,,,,,,,"""start_date"" must be a valid date","""start_date"" must be a valid date"

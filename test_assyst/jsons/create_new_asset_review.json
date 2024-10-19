@@ -1,0 +1,30 @@
+{
+  "asset_investment_review": {
+    "review_date": "2024-02-02T11:31:03.482Z",
+    "review_interval": 0,
+    "review_completed": "2024-02-02T11:31:03.482Z",
+    "review_assigned": "string",
+    "review_reason": "Data Restore 2 reason"
+  },
+  "asset_share_holdings_review": {
+    "review_date": "2024-02-02T11:31:03.482Z",
+    "review_interval": 0,
+    "review_completed": "2024-02-02T11:31:03.482Z",
+    "review_assigned": "string",
+    "review_reason": "Data Restore 2 reason"
+  },
+  "asset_home_personal_review": {
+    "review_date": "2024-02-02T11:31:03.482Z",
+    "review_interval": 0,
+    "review_completed": "2024-02-02T11:31:03.482Z",
+    "review_assigned": "string",
+    "review_reason": "Data Restore 2 reason"
+  },
+  "asset_banks_building_societies_review": {
+    "review_date": "2024-02-02T11:31:03.482Z",
+    "review_interval": 0,
+    "review_completed": "2024-02-02T11:31:03.482Z",
+    "review_assigned": "string",
+    "review_reason": "Data Restore 2 reason"
+  }
+}

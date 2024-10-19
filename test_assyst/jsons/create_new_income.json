@@ -1,0 +1,15 @@
+{
+  "income": {
+    "customer_id": "string",
+    "owner": 0,
+    "income_type": "salary",
+    "gross_amount": 20,
+    "net_amount": 20,
+    "frequency": "Monthly",
+    "source": "Employer",
+    "start_date": "2024-01-09T18:30:00.000Z",
+    "end_date": "2025-01-11T18:30:00.000Z",
+    "note_text": "Data Restore 2 Annual salary including bonus",
+    "sort_order": 3
+  }
+}

@@ -1,0 +1,2 @@
+frequency,introduced_by,case_category,provider,commission_type,note_text,payment_source,nb_register,consultant,payment_count,status,status_date,amount_to_company,start_date,end_date,post_expected_message,patch_expected_message
+Weekly,admin,0,ABC ,Client management fee,Details about the fee,Client,0,Amar tvm,11,0,2023-11-22T11:31:16.452Z,10,2023-02-22T11:31:16.452Z,2024-11-22T11:31:16.452Z,Fees and charges details added successfully,Fees and charges updated successfully

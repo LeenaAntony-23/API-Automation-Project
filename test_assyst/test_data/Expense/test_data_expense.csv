@@ -1,0 +1,30 @@
+description,frequency,client_amount,partner_amount,joint_amount,sort_order,discretionary,post_expected_message,patch_expected_message
+Notes to test,Weekly,10,10,20,0,Committed,Outgoing details added successfully,Outgoing details updated successfully
+qwqwqwqwqwqwqwqwqwqwqwqwqwqwqwqwqwq,,,,,,,Outgoing details added successfully,Outgoing details updated successfully
+qwqqwqwqwqwqwqwqwqwqwqwqwqwqwqwqwq,,,,,,,Outgoing details added successfully,Outgoing details updated successfully
+qwqqwqwqwqwqwqwqwqwqwqwqwqwqwqwqwqwq,,,,,,,Description cannot be longer than 35 characters,Description cannot be longer than 35 characters
+,,1.23E+13,,,,,Outgoing details added successfully,Outgoing details updated successfully
+,,,1.23E+13,,,,Outgoing details added successfully,Outgoing details updated successfully
+,,,,1.23E+13,,,Outgoing details added successfully,Outgoing details updated successfully
+,,1.1234,,,,,Outgoing details added successfully,Outgoing details updated successfully
+,,1.12345,,,,,Outgoing details added successfully,Outgoing details updated successfully
+,,,1.1234,,,,Outgoing details added successfully,Outgoing details updated successfully
+,,,1.12345,,,,Outgoing details added successfully,Outgoing details updated successfully
+,,,,1.1234,,,Outgoing details added successfully,Outgoing details updated successfully
+,,,,1.12345,,,Outgoing details added successfully,Outgoing details updated successfully
+,,,,,1.2,,"""sort_order"" must be an integer","""sort_order"" must be an integer"
+,Monthly,,,,,,Outgoing details added successfully,Outgoing details updated successfully
+,4-weekly,,,,,,Outgoing details added successfully,Outgoing details updated successfully
+,Quarterly,,,,,,Outgoing details added successfully,Outgoing details updated successfully
+,Annual,,,,,,Outgoing details added successfully,Outgoing details updated successfully
+,Half-yearly,,,,,,Outgoing details added successfully,Outgoing details updated successfully
+,Fortnightly,,,,,,Outgoing details added successfully,Outgoing details updated successfully
+,Single,,,,,,Invalid frequency,Invalid frequency
+,,,,,,Essential,Outgoing details added successfully,Outgoing details updated successfully
+,,,,,,Discretionary,Outgoing details added successfully,Outgoing details updated successfully
+qw23,,,,,,,Outgoing details added successfully,Outgoing details updated successfully
+23&&,,,,,,,Outgoing details added successfully,Outgoing details updated successfully
+^^re,,,,,,,Outgoing details added successfully,Outgoing details updated successfully
+qw23&&,,,,,,,Outgoing details added successfully,Outgoing details updated successfully
+34,,,,,,,Outgoing details added successfully,Outgoing details updated successfully
+**,,,,,,,Outgoing details added successfully,Outgoing details updated successfully

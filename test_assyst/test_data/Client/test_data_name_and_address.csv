@@ -1,0 +1,127 @@
+client_value,first_names,title,former_last_name,last_name,initials,former_last_name,honours,known_as,address_1,address_2,address_3,address_name,salutation,joint_salutation,joint_address_label,country,county,town,postcode,post_expected_message,patch_expected_message
+client,Ann,Mrs,Ann,Jaison,O,Jai,Dr,jo,indivaram,tvm,kerala,House N.101,M,Mr,Mr and Mrs,India,India,TVM,695121,Client details added successfully,Client details updated successfully
+client,Jose,Mr,Jose,Jacob,j,Jac,Dr,jo,chinmayam,tvm,kerala,House N.102,M,Mr,Mr and Mrs,India,India,TVM,695006,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,test,,Client,,,,,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,12,,Client,,,,,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,abcdefghijklmnopqrstuvwxyzabcdefgh,,Client,,,,,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,abcdefghijklmnopqrstuvwxyzabcdefghi,,Client,,,,,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,abcdefghijklmnopqrstuvwxyzabcdefghij,,Client,,,,,,,,,,,,,,,,Title cannot be longer than 35 characters,Title cannot be longer than 35 characters
+client,äöüßáéíñóú¿¡,,,Client,,,,,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,T,,,Client,,,,,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,T,,,Client,,,,,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,test12!,,,Client,,,,,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,abcdefghijklmnopqrstuvwxyzabc,,,Client,,,,,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,abcdefghijklmnopqrstuvwxyzabcd,,,Client,,,,,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,Mr,,,,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,12,,,,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,Mr%$^12,,,,,,,,,,,,,,,Initials cannot be longer than 5 characters,Initials cannot be longer than 5 characters
+client,Test,,,Client,$%^,,,,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,äöüßáéíñóú¿¡,,,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,test,,,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,12,,,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,abcdefghijklmnopqrstuvwxyzabc,,,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,abcdefghijklmnopqrstuvwxyzabcd,,,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,abcdefghijklmnopqrstuvwxyzabcde,,,,,,,,,,,,,,Former Last Name cannot be longer than 30 characters,Former Last Name cannot be longer than 30 characters
+client,Test,,,Client,,$%^,,,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,test5$%^,,,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwx,,,,,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvw,,,,,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,äöüßáéíñóú¿¡,,,,,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,T,,,,,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,$%^,,,,,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,client5$%^,,,,,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,,,,,,,,Bristol,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,,,,,,,,12,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,,,,,,,,$%^,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,,,,,,,,Bristol5$%^,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,,,,,,England,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,,,,,,12,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,,,,,,$%^,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,,,,,,England5$%^,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,,,,,,,Kent,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,,,,,,,12,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,,,,,,,$%^,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,,,,,,,Kent5$%^,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,abcdefghijklmnopqrs,,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,abcdefghijklmnopqrst,,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,abcdefghijklmnopqrstu,,,,,,,,,,,,,Honours cannot be longer than 20 characters,Honours cannot be longer than 20 characters
+client,Test,,,Client,,,12,,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,$%^,,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,test5$%^,,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,12,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,$%^,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,test5$%^,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,abcdefghijklmnopqrs,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,abcdefghijklmnopqrst,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,abcdefghijklmnopqrstu,,,,,,,,,,,,Known As cannot be longer than 20 characters,Known As cannot be longer than 20 characters
+client,Test,,,Client,,,,,äöüßáéíñóú¿¡,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvw,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwx,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxy,,,,,,,,,,,Address Line 1 cannot be longer than 50 characters,Address Line 1 cannot be longer than 50 characters
+client,Test,,,Client,,,,,test,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,12,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,$%^,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,test5$%^,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,äöüßáéíñóú¿¡,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvw,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwx,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxy,,,,,,,,,,Address Line 2 cannot be longer than 50 characters,Address Line 2 cannot be longer than 50 characters
+client,Test,,,Client,,,,,,test,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,12,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,$%^,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,test5$%^,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,äöüßáéíñóú¿¡,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvw,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwx,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxy,,,,,,,,,Address Line 3 cannot be longer than 50 characters,Address Line 3 cannot be longer than 50 characters
+client,Test,,,Client,,,,,,,test,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,12,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,$%^,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,test5$%^,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvw,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwx,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxy,,,,,,,,Address Name cannot be longer than 50 characters,Address Name cannot be longer than 50 characters
+client,Test,,,Client,,,,,,,,test,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,,12,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,,$%^,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,,test5$%^,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,,,test,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,,,abcdefghijklmnopqrstuvwx,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,,,abcdefghijklmnopqrstuvwxy,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,,,abcdefghijklmnopqrstuvwxyz,,,,,,,Salutation cannot be longer than 25 characters,Salutation cannot be longer than 25 characters
+client,Test,,,Client,,,,,,,,,12,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,,,$%^,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,,,test5$%^,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,,,,,test,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvw,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwx,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxy,,,,,Joint Address Name cannot be longer than 100 characters,Joint Address Name cannot be longer than 100 characters
+client,Test,,,Client,,,,,,,,,,,12,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,,,,,$%^,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,,,,,test5$%^,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,,,,,,,,,12345678,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,,,,,,,,,123456789,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,,,,,,,,,1234567890,Postcode cannot be longer than 9 characters,Postcode cannot be longer than 9 characters
+client,Test,,,Client,,,,,,,,,,test,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvw,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwx,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxy,,,,,,Joint Salutation cannot be longer than 100 characters,Joint Salutation cannot be longer than 100 characters
+client,Test,,,Client,,,,,,,,,,12,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,,,,$%^,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,,,,test5$%^,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,aaefrasdaddaqaqaqaqaqaqaqaqaqaqaqaqaqaqqq,Client,,,,,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,123,Client,,,,,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,12qa##,Client,,,,,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,*&^,Client,,,,,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,123,,,Client,,,,,,,,,,,,,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,,,,,,,,,69 5509,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabc,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabcd,,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabcde,,,,Country cannot be longer than 30 characters,Country cannot be longer than 30 characters
+client,Test,,,Client,,,,,,,,,,,,,abcdefghijklmnopqrs,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,,,,,,,abcdefghijklmnopqrst,,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,,,,,,,abcdefghijklmnopqrstu,,,County cannot be longer than 30 characters,County cannot be longer than 30 characters
+client,Test,,,Client,,,,,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabc,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabcd,,Client details added successfully,Client details updated successfully
+client,Test,,,Client,,,,,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabcde,,Town cannot be longer than 30 characters,Town cannot be longer than 30 characters

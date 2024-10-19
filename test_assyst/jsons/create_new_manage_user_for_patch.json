@@ -1,0 +1,19 @@
+{
+
+
+  "short_name": "api",
+  "roles": [
+    {
+      "id": "5b976b85-b762-45d5-9f93-3a34c9e8bbc9",
+            "name": "planner",
+            "description": "Planner",
+            "composite": true,
+            "clientRole": false,
+            "containerId": "8ab4bf74-c012-4142-93ae-c67b5e329679"
+    }
+  ],
+  "limit_users": [
+    "1e1923ec-8aa4-437f-8bcb-8dd355f667ac"
+  ],
+  "user_role": "Planner"
+}

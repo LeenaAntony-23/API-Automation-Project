@@ -1,0 +1,2 @@
+height,weight,state_of_health,health_note,long_term_care_needed,smoker,smoker_note,alcohol_note,hazardous_pursuit_note,patch_expected_message
+162,55,well,good,yes,no,health note,no,NA,Client details updated successfully

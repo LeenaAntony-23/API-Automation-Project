@@ -1,0 +1,11 @@
+{
+  "contacts_client_action": {
+    "customer_id": "string",
+    "effective_date": "2024-03-22",
+    "tracking_client_actions": [
+      {
+        "tracking_id": "string"
+      }
+    ]
+  }
+}

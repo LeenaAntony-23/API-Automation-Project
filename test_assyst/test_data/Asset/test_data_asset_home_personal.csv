@@ -1,0 +1,58 @@
+owner,owner_name1,owner_name2,home_description,home_date_acquired,home_original_value,current_value,value_date,note_text,report_note,purpose,joint_indicator,status_date,case_type,post_expected_message,patch_expected_message
+Client,John,Doe,permanent rsidence,2023-11-23T16:47:55.697Z,0,0,2023-11-23T16:47:55.697Z,to test,review,residential,0,2023-11-23T16:47:55.697Z,2,Asset details added successfully,Asset details updated successfully
+Partner,,,,,,,,,,,1,,,Asset details added successfully,Asset details updated successfully
+Joint,,,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,##,,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,%%2333,,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,asdd3455,,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,eree^^,,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,ass344%%,,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,##,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,%%2333,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,asdd3455,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,eree^^,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,ass344%%,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,,##,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,,%%2333,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,,asdd3455,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,,eree^^,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,,ass344%%,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,12345,,,,,Asset details added successfully,Asset details updated successfully
+,,,0,,,,,,,,,,2,Asset details added successfully,Asset details updated successfully
+,,,,202-11-23T16:47:55.697Z,,,,,,,,,2,"""home_date_acquired"" must be a valid date","""home_date_acquired"" must be a valid date"
+,,,,,,,202-11-23T16:47:55.697Z,,,,,,2,"""value_date"" must be a valid date","""value_date"" must be a valid date"
+,,,,,,,,,,,,202-11-23T16:47:55.697Z,2,"""status_date"" must be a valid date","""status_date"" must be a valid date"
+abcdefghijklmnopqrstuvwxyzabcdefg,,,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+abcdefghijklmnopqrstuvwxyzabcdefghi,,,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+sssssssssssssssssssssssssssssssssssssssssssssssssssssss,,,,,,,,,,,,,,Owner Detail cannot be longer than 35 characters,Owner Detail cannot be longer than 35 characters
+,ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss,,,,,,,,,,,,,Owner Name 1 cannot be longer than 50 characters,Owner Name 1 cannot be longer than 50 characters
+,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwx,,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvw,,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss,,,,,,,,,,,,Owner Name 2 cannot be longer than 50 characters,Owner Name 2 cannot be longer than 50 characters
+,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwx,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvw,,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,,ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss,,,,,,,,,,,Home Description cannot be longer than 50 characters,Home Description cannot be longer than 50 characters
+,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwx,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvw,,,,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,,,sssssssssssssss,,,,,,,,,,"""home_date_acquired"" must be a valid date","""home_date_acquired"" must be a valid date"
+,,,,,-25639,,,,,,,,,Original Value must be follow decimal rule,Original Value must be follow decimal rule
+,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghij,,,,Purpose cannot be longer than 30 characters,Purpose cannot be longer than 30 characters
+,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabcd,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,,abcdefghijklmnopqrstuvwxyzabc,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,fgjhg,,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,1253,,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,$%#^,,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,fgh123,,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,fgh$#%,,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,123%^&,,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,asd234(*&,,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,fgjhg,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,1253,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,$%#^,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,fgh654,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,hgf^%&,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,125&^*,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,,,,asd435(*&,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,123.123456,,,,,,,,Current Value must be follow decimal rule,Current Value must be follow decimal rule
+,,,,,,123.1234,,,,,,,,Asset details added successfully,Asset details updated successfully
+,,,,,,123.12,,,,,,,,Asset details added successfully,Asset details updated successfully

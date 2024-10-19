@@ -1,0 +1,10 @@
+{
+  "outgoings": {
+    "customer_id": "string",
+    "expense_categories": [
+      {
+        "expense_category_id": "string"
+      }
+    ]
+  }
+}

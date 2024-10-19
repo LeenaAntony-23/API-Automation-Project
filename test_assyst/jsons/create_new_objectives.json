@@ -1,0 +1,14 @@
+{
+  "objectives": {
+    "customer_id": "string",
+    "category": "category",
+    "sort_order": 0,
+    "objective_description": "objective",
+    "applicable": 0,
+    "comments": "nil",
+    "rating": 0,
+    "modified_by": "self",
+    "modified": "2024-01-11T06:17:59.427Z",
+    "cash_calc_id": 0
+  }
+}

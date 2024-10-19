@@ -1,0 +1,101 @@
+{
+  "asset_investment_actions": {
+    "customer_id": "string",
+    "case_id": "string",
+    "business_date": "2023-12-06T13:26:30.702Z",
+    "business_action": "investment",
+    "business_assigned": "Amar tvm",
+    "business_status": "Active",
+    "business_category": 0
+  },
+  "liabilities_mortgages_actions": {
+    "customer_id": "string",
+    "case_id": "string",
+    "business_date": "2023-12-06T13:26:30.702Z",
+    "business_action": "Mortgage",
+    "business_assigned": "Amar tvm",
+    "business_status": "Active",
+    "business_category": 6
+  },
+  "liabilities_loan_hire_purchase_actions": {
+    "customer_id": "string",
+    "case_id": "string",
+    "business_date": "2023-12-06T13:26:30.702Z",
+    "business_action": "purchase",
+    "business_assigned": "Amar tvm",
+    "business_status": "Active",
+    "business_category": 0
+  },
+   "liabilities_loan_hire_purchase_payments_actions": {
+    "customer_id": "string",
+    "case_id": "string",
+    "business_date": "2023-12-09T07:59:18.676Z",
+    "business_action": "loan",
+    "business_assigned": "Amar tvm",
+    "business_status": "Active",
+    "business_category": 7
+  },
+  "policies_life_assurance_actions": {
+    "customer_id": "string",
+    "case_id": "string",
+    "business_date": "2023-12-06T13:26:30.702Z",
+    "business_action": "policy action",
+    "business_assigned": "Amar tvm",
+    "business_status": "Active",
+    "business_category": 1
+  },
+  "policies_pensions_actions": {
+     "customer_id": "string",
+    "case_id": "string",
+    "business_date": "2023-12-06T13:26:30.702Z",
+    "business_action": "policy action",
+    "business_assigned": "Amar tvm",
+    "business_status": "Active",
+    "business_category": 1
+  },
+  "policies_investments_actions": {
+     "customer_id": "string",
+    "case_id": "string",
+    "business_date": "2023-12-06T13:26:30.702Z",
+    "business_action": "policy action",
+    "business_assigned": "Amar tvm",
+    "business_status": "Active",
+    "business_category": 0
+  },
+  "policies_savings_plans_actions": {
+     "customer_id": "string",
+    "case_id": "string",
+    "business_date": "2023-12-06T13:26:30.702Z",
+    "business_action": "policy action",
+    "business_assigned": "Amar tvm",
+    "business_status": "Active",
+    "business_category": 0
+  },
+  "policies_income_protection_actions": {
+     "customer_id": "string",
+    "case_id": "string",
+    "business_date": "2023-12-06T13:26:30.702Z",
+    "business_action": "policy action",
+    "business_assigned": "Amar tvm",
+    "business_status": "Active",
+    "business_category": 1
+  },
+  "policies_health_assurance_actions": {
+     "customer_id": "string",
+    "case_id": "string",
+    "business_date": "2023-12-06T13:26:30.702Z",
+    "business_action": "policy action",
+    "business_assigned": "Amar tvm",
+    "business_status": "Active",
+    "business_category": 1
+  },
+  "policies_general_actions": {
+    "customer_id": "string",
+    "case_id": "string",
+    "business_date": "2023-12-06T13:26:30.702Z",
+    "business_action": "policy action",
+    "business_assigned": "Amar tvm",
+    "business_status": "Active",
+    "business_category": 1
+  }
+}

@@ -1,0 +1,23 @@
+
+
+{
+  "username": "oli@tekknology.com",
+  "enabled": true,
+  "totp": false,
+  "emailVerified": true,
+  "firstName": "jj",
+  "lastName": "jj",
+  "email": "oli@tekknology.com",
+  "credentials": [
+    {
+      "type": "password",
+      "value": "tekk123",
+      "temporary": false
+    }
+  ],
+  "realmRoles": [
+
+  ],
+  "limit_users": []
+
+}

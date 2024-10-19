@@ -1,0 +1,20 @@
+appointment_date,appointment_time,appointment_type,appointment_note,appointment_assigned,appointment_status,post_expected_message,patch_expected_message
+2023-11-22T11:31:16.452Z,2023-11-22T11:31:16.452Z,Client Action,Note,appointment_assigned,Approved,Client details added successfully,Client details updated successfully
+,,abcdefghijklmnopqrstuvwxyzabcdefghi,Note,,,Client details added successfully,Client details updated successfully
+,,abcdefghijklmnopqrstuvwxyzabcdefg,Note,,,Client details added successfully,Client details updated successfully
+,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnop,Note,,,Type cannot be longer than 35 characters,Type cannot be longer than 35 characters
+,,,12345,,,Client details added successfully,Client details updated successfully
+,,,(*&^,,,Client details added successfully,Client details updated successfully
+,,,ghhj456,,,Client details added successfully,Client details updated successfully
+,,,hjuk^%&,,,Client details added successfully,Client details updated successfully
+,,,675^%$,,,Client details added successfully,Client details updated successfully
+,,,abcd,,,Client details added successfully,Client details updated successfully
+,,,hjuk%^&345,,,Client details added successfully,Client details updated successfully
+,,,Note,abcdefghijklmnopqrstuvwxyzabcdefghi,,Client details added successfully,Client details updated successfully
+,,,Note,abcdefghijklmnopqrstuvwxyzabcdefg,,Client details added successfully,Client details updated successfully
+,,,Note,abcdefghijklmnopqrstuvwxyzabcdefghijklmnop,,Assigned cannot be longer than 35 characters,Assigned cannot be longer than 35 characters
+,,,Note,,abcdefghijklmnopqrstuvwxyzabcdefghi,Client details added successfully,Client details updated successfully
+,,,Note,,abcdefghijklmnopqrstuvwxyzabcdefg,Client details added successfully,Client details updated successfully
+,,,Note,,abcdefghijklmnopqrstuvwxyzabcdefghijklmnop,Status cannot be longer than 35 characters,Status cannot be longer than 35 characters
+202-11-22T11:31:16.452Z,,,Note,,,"""appointment_date"" must be a valid date","""appointment_date"" must be a valid date"
+,202-11-22T11:31:16.452Z,,Note,,,"""appointment_time"" must be a valid date","""appointment_time"" must be a valid date"

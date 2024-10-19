@@ -1,0 +1,43 @@
+consultant,replacement,replacement_reason,high_risk,high_risk_note,submitted,type_of_sale,business_card,client_agreement,terms_of_business_sent,idd,menu,fact_find_completed,data_protection_form_sent,risk_profile,verification_of_identity,sanctions_check,research_completed,research_note,illustration,key_features_received,key_features_sent,suitability_letter_sent,docs_received,docs_sent,patch_expected_message
+Amar tvm,allowed,general review,Yes,test note high risk,2023-12-11T15:02:52.803Z,allowed,2023-12-11T15:02:52.803Z,2023-12-11T15:02:52.803Z,2023-12-11T15:02:52.803Z,2023-12-11T15:02:52.803Z,2023-12-11T15:02:52.803Z,2023-12-11T15:02:52.803Z,2023-12-11T15:02:52.803Z,2023-12-11T15:02:52.803Z,2023-12-11T15:02:52.803Z,2023-12-11T15:02:52.803Z,2023-12-11T15:02:52.803Z,note to test,2023-12-11T15:02:52.803Z,2023-12-11T15:02:52.803Z,2023-12-11T15:02:52.803Z,2023-12-11T15:02:52.803Z,2023-12-11T15:02:52.803Z,2023-12-11T15:02:52.803Z,Payment details updated successfully
+,,,,,12-11T15:02:52.803Z,,,,,,,,,,,,,,,,,,,,"""submitted"" must be a valid date"
+,,,,,,,12-11T15:02:52.803Z,,,,,,,,,,,,,,,,,,"""business_card"" must be a valid date"
+,,,,,,,,12-11T15:02:52.803Z,,,,,,,,,,,,,,,,,"""client_agreement"" must be a valid date"
+,,,,,,,,,12-11T15:02:52.803Z,,,,,,,,,,,,,,,,"""terms_of_business_sent"" must be a valid date"
+,,,,,,,,,,12-11T15:02:52.803Z,,,,,,,,,,,,,,,"""idd"" must be a valid date"
+,,,,,,,,,,,12-11T15:02:52.803Z,,,,,,,,,,,,,,"""menu"" must be a valid date"
+,,,,,,,,,,,,12-11T15:02:52.803Z,,,,,,,,,,,,,"""fact_find_completed"" must be a valid date"
+,,,,,,,,,,,,,12-11T15:02:52.803Z,,,,,,,,,,,,"""data_protection_form_sent"" must be a valid date"
+,,,,,,,,,,,,,,12-11T15:02:52.803Z,,,,,,,,,,,"""risk_profile"" must be a valid date"
+,,,,,,,,,,,,,,,12-11T15:02:52.803Z,,,,,,,,,,"""verification_of_identity"" must be a valid date"
+,,,,,,,,,,,,,,,,12-11T15:02:52.803Z,,,,,,,,,"""sanctions_check"" must be a valid date"
+,,,,,,,,,,,,,,,,,12-11T15:02:52.803Z,,,,,,,,"""research_completed"" must be a valid date"
+,,,,,,,,,,,,,,,,,,,12-11T15:02:52.803Z,,,,,,"""illustration"" must be a valid date"
+,,,,,,,,,,,,,,,,,,,,12-11T15:02:52.803Z,,,,,"""key_features_received"" must be a valid date"
+,,,,,,,,,,,,,,,,,,,,,12-11T15:02:52.803Z,,,,"""key_features_sent"" must be a valid date"
+,,,,,,,,,,,,,,,,,,,,,,12-11T15:02:52.803Z,,,"""suitability_letter_sent"" must be a valid date"
+,,,,,,,,,,,,,,,,,,,,,,,12-11T15:02:52.803Z,,"""docs_received"" must be a valid date"
+,,,,,,,,,,,,,,,,,,,,,,,,12-11T15:02:52.803Z,"""docs_sent"" must be a valid date"
+,,,,123,,,,,,,,,,,,,,,,,,,,,Payment details updated successfully
+,,,,%%,,,,,,,,,,,,,,,,,,,,,Payment details updated successfully
+,,,,as##,,,,,,,,,,,,,,,,,,,,,Payment details updated successfully
+,,,,33%%,,,,,,,,,,,,,,,,,,,,,Payment details updated successfully
+,,,,23@3Ee,,,,,,,,,,,,,,,,,,,,,Payment details updated successfully
+string,,,,,,,,,,,,,,,,,,,,,,,,,Invalid consultant
+,abcdefghijklmnopqrstuvwxyzabcdefgh,,,,,,,,,,,,,,,,,,,,,,,,Payment details updated successfully
+,abcdefghijklmnopqrstuvwxyzabcdefghi,,,,,,,,,,,,,,,,,,,,,,,,Payment details updated successfully
+,abcdefghijklmnopqrstuvwxyzabcdefghijk,,,,,,,,,,,,,,,,,,,,,,,,Replacement cannot be longer than 35 characters
+,,123,,,,,,,,,,,,,,,,,,,,,,,Payment details updated successfully
+,,%%,,,,,,,,,,,,,,,,,,,,,,,Payment details updated successfully
+,,as##,,,,,,,,,,,,,,,,,,,,,,,Payment details updated successfully
+,,33%%,,,,,,,,,,,,,,,,,,,,,,,Payment details updated successfully
+,,23@3Ee,,,,,,,,,,,,,,,,,,,,,,,Payment details updated successfully
+,,,,,,,,,,,,,,,,,,123,,,,,,,Payment details updated successfully
+,,,,,,,,,,,,,,,,,,%%,,,,,,,Payment details updated successfully
+,,,,,,,,,,,,,,,,,,as##,,,,,,,Payment details updated successfully
+,,,,,,,,,,,,,,,,,,33%%,,,,,,,Payment details updated successfully
+,,,,,,,,,,,,,,,,,,23@3Ee,,,,,,,Payment details updated successfully
+,,,,,,qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq,,,,,,,,,,,,,,,,,,,Type of Sale cannot be longer than 35 characters
+,,,,,,abcdefghijklmnopqrstuvwxyzabcdefgh,,,,,,,,,,,,,,,,,,,Payment details updated successfully
+,,,,,,abcdefghijklmnopqrstuvwxyzabcdefghi,,,,,,,,,,,,,,,,,,,Payment details updated successfully
+,,,string,,,,,,,,,,,,,,,,,,,,,,Invalid highrisk

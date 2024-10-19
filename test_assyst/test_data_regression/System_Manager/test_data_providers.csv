@@ -1,0 +1,2 @@
+group_name,provider_name,contact_name,address1,address2,address3,town,county,country,postcode,telephone,fax,mobile,email,salutation,status,note_text,post_expected_message,patch_expected_message
+abc,ABC,ann,nikunjam,attingal,trivandrum,trivandrum,india,india,123z4567,12z3444,87z87,1234z567,abc@gmail.com,mrs,married,Provide notes,Provider details added successfully,Provider details updated successfully
